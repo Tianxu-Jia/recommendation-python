@@ -1,0 +1,4470 @@
+%PDF-1.3
+%ÿÿÿÿ
+9 0 obj
+<<
+/Type /ExtGState
+/ca 1
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 6 0 R
+/Resources 7 0 R
+/UserUnit 1
+>>
+endobj
+7 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+14 0 obj
+<<
+/S /URI
+/URI (https://storm.genie.stanford.edu/article/137611)
+>>
+endobj
+15 0 obj
+<<
+/Subtype /Link
+/A 14 0 R
+/Type /Annot
+/Rect [83.288 495.890009 372.276 511.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+16 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+17 0 obj
+<<
+/Subtype /Link
+/A 16 0 R
+/Type /Annot
+/Rect [455.618 168.290051 459.51 183.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+18 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+19 0 obj
+<<
+/Subtype /Link
+/A 18 0 R
+/Type /Annot
+/Rect [459.51 168.290051 467.294 183.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+20 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+21 0 obj
+<<
+/Subtype /Link
+/A 20 0 R
+/Type /Annot
+/Rect [467.294 168.290051 471.186 183.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+22 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+23 0 obj
+<<
+/Subtype /Link
+/A 22 0 R
+/Type /Annot
+/Rect [117.896 77.290051 121.788 92.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+24 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+25 0 obj
+<<
+/Subtype /Link
+/A 24 0 R
+/Type /Annot
+/Rect [121.788 77.290051 129.572 92.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+26 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+27 0 obj
+<<
+/Subtype /Link
+/A 26 0 R
+/Type /Annot
+/Rect [129.572 77.290051 133.464 92.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 11 0 R
+/Resources 12 0 R
+/UserUnit 1
+/Annots [15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R]
+>>
+endobj
+12 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+31 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+32 0 obj
+<<
+/Subtype /Link
+/A 31 0 R
+/Type /Annot
+/Rect [239.122 765.690015 243.014 781.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+33 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+34 0 obj
+<<
+/Subtype /Link
+/A 33 0 R
+/Type /Annot
+/Rect [243.014 765.690015 250.798 781.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+35 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+36 0 obj
+<<
+/Subtype /Link
+/A 35 0 R
+/Type /Annot
+/Rect [250.798 765.690015 254.69 781.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+37 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+38 0 obj
+<<
+/Subtype /Link
+/A 37 0 R
+/Type /Annot
+/Rect [520.676 674.690015 524.568 690.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+39 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+40 0 obj
+<<
+/Subtype /Link
+/A 39 0 R
+/Type /Annot
+/Rect [524.568 674.690015 532.352 690.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+41 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+42 0 obj
+<<
+/Subtype /Link
+/A 41 0 R
+/Type /Annot
+/Rect [532.352 674.690015 536.244 690.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+43 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+44 0 obj
+<<
+/Subtype /Link
+/A 43 0 R
+/Type /Annot
+/Rect [416.32 583.690015 420.212 599.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+45 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+46 0 obj
+<<
+/Subtype /Link
+/A 45 0 R
+/Type /Annot
+/Rect [420.212 583.690015 427.996 599.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+47 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+48 0 obj
+<<
+/Subtype /Link
+/A 47 0 R
+/Type /Annot
+/Rect [427.996 583.690015 431.888 599.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+49 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+50 0 obj
+<<
+/Subtype /Link
+/A 49 0 R
+/Type /Annot
+/Rect [505.92 508.090015 509.812 523.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+51 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+52 0 obj
+<<
+/Subtype /Link
+/A 51 0 R
+/Type /Annot
+/Rect [509.812 508.090015 517.596 523.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+53 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+54 0 obj
+<<
+/Subtype /Link
+/A 53 0 R
+/Type /Annot
+/Rect [517.596 508.090015 521.488 523.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+55 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+56 0 obj
+<<
+/Subtype /Link
+/A 55 0 R
+/Type /Annot
+/Rect [203.044 417.090039 206.936 432.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+57 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+58 0 obj
+<<
+/Subtype /Link
+/A 57 0 R
+/Type /Annot
+/Rect [206.936 417.090039 214.72 432.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+59 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+60 0 obj
+<<
+/Subtype /Link
+/A 59 0 R
+/Type /Annot
+/Rect [214.72 417.090039 218.612 432.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+61 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+62 0 obj
+<<
+/Subtype /Link
+/A 61 0 R
+/Type /Annot
+/Rect [165.286 326.090039 169.178 341.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+63 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+64 0 obj
+<<
+/Subtype /Link
+/A 63 0 R
+/Type /Annot
+/Rect [169.178 326.090039 176.962 341.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+65 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+66 0 obj
+<<
+/Subtype /Link
+/A 65 0 R
+/Type /Annot
+/Rect [176.962 326.090039 180.854 341.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+67 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+68 0 obj
+<<
+/Subtype /Link
+/A 67 0 R
+/Type /Annot
+/Rect [273.436 235.090039 277.328 250.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+69 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+70 0 obj
+<<
+/Subtype /Link
+/A 69 0 R
+/Type /Annot
+/Rect [277.328 235.090039 285.112 250.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+71 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+72 0 obj
+<<
+/Subtype /Link
+/A 71 0 R
+/Type /Annot
+/Rect [285.112 235.090039 289.004 250.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+73 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+74 0 obj
+<<
+/Subtype /Link
+/A 73 0 R
+/Type /Annot
+/Rect [430.082 33.890015 433.974 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+75 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+76 0 obj
+<<
+/Subtype /Link
+/A 75 0 R
+/Type /Annot
+/Rect [433.974 33.890015 441.758 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+77 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+78 0 obj
+<<
+/Subtype /Link
+/A 77 0 R
+/Type /Annot
+/Rect [441.758 33.890015 445.65 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+79 0 obj
+<<
+/S /URI
+/URI (https://www.parabuildci.org/support/articles/continuous_integration_build_breakage_patterns.htm)
+>>
+endobj
+80 0 obj
+<<
+/Subtype /Link
+/A 79 0 R
+/Type /Annot
+/Rect [445.65 33.890015 449.542 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+81 0 obj
+<<
+/S /URI
+/URI (https://www.parabuildci.org/support/articles/continuous_integration_build_breakage_patterns.htm)
+>>
+endobj
+82 0 obj
+<<
+/Subtype /Link
+/A 81 0 R
+/Type /Annot
+/Rect [449.542 33.890015 457.326 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+83 0 obj
+<<
+/S /URI
+/URI (https://www.parabuildci.org/support/articles/continuous_integration_build_breakage_patterns.htm)
+>>
+endobj
+84 0 obj
+<<
+/Subtype /Link
+/A 83 0 R
+/Type /Annot
+/Rect [457.326 33.890015 461.218 49.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+30 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 28 0 R
+/Resources 29 0 R
+/UserUnit 1
+/Annots [32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R 50 0 R 52 0 R 54 0 R 56 0 R 58 0 R 60 0 R 62 0 R 64 0 R 66 0 R 68 0 R 70 0 R 72 0 R 74 0 R 76 0 R 78 0 R 80 0 R 82 0 R 84 0 R]
+>>
+endobj
+29 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+88 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchsoftwarequality/CI-CD-pipelines-explained-Everything-you-need-to-know)
+>>
+endobj
+89 0 obj
+<<
+/Subtype /Link
+/A 88 0 R
+/Type /Annot
+/Rect [534.112029 687.890015 538.004029 703.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+90 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchsoftwarequality/CI-CD-pipelines-explained-Everything-you-need-to-know)
+>>
+endobj
+91 0 obj
+<<
+/Subtype /Link
+/A 90 0 R
+/Type /Annot
+/Rect [538.004029 687.890015 545.788029 703.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+92 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchsoftwarequality/CI-CD-pipelines-explained-Everything-you-need-to-know)
+>>
+endobj
+93 0 obj
+<<
+/Subtype /Link
+/A 92 0 R
+/Type /Annot
+/Rect [545.788029 687.890015 555.280029 703.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+94 0 obj
+<<
+/S /URI
+/URI (https://lakefs.io/blog/cicd-pipeline-guide/)
+>>
+endobj
+95 0 obj
+<<
+/Subtype /Link
+/A 94 0 R
+/Type /Annot
+/Rect [40 672.490015 43.892 687.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+96 0 obj
+<<
+/S /URI
+/URI (https://lakefs.io/blog/cicd-pipeline-guide/)
+>>
+endobj
+97 0 obj
+<<
+/Subtype /Link
+/A 96 0 R
+/Type /Annot
+/Rect [43.892 672.490015 51.676 687.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+98 0 obj
+<<
+/S /URI
+/URI (https://lakefs.io/blog/cicd-pipeline-guide/)
+>>
+endobj
+99 0 obj
+<<
+/Subtype /Link
+/A 98 0 R
+/Type /Annot
+/Rect [51.676 672.490015 55.568 687.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+100 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+101 0 obj
+<<
+/Subtype /Link
+/A 100 0 R
+/Type /Annot
+/Rect [470.024 563.890021 473.916 579.290021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+102 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+103 0 obj
+<<
+/Subtype /Link
+/A 102 0 R
+/Type /Annot
+/Rect [473.916 563.890021 481.7 579.290021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+104 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+105 0 obj
+<<
+/Subtype /Link
+/A 104 0 R
+/Type /Annot
+/Rect [481.7 563.890021 485.592 579.290021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+106 0 obj
+<<
+/S /URI
+/URI (https://www.slingacademy.com/article/git-post-merge-hook-the-ultimate-guide-with-examples/)
+>>
+endobj
+107 0 obj
+<<
+/Subtype /Link
+/A 106 0 R
+/Type /Annot
+/Rect [245.002 439.890015 248.894 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+108 0 obj
+<<
+/S /URI
+/URI (https://www.slingacademy.com/article/git-post-merge-hook-the-ultimate-guide-with-examples/)
+>>
+endobj
+109 0 obj
+<<
+/Subtype /Link
+/A 108 0 R
+/Type /Annot
+/Rect [248.894 439.890015 256.678 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+110 0 obj
+<<
+/S /URI
+/URI (https://www.slingacademy.com/article/git-post-merge-hook-the-ultimate-guide-with-examples/)
+>>
+endobj
+111 0 obj
+<<
+/Subtype /Link
+/A 110 0 R
+/Type /Annot
+/Rect [256.678 439.890015 260.57 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+112 0 obj
+<<
+/S /URI
+/URI (https://www.coditation.com/blog/branching-merging-strategies-with-git)
+>>
+endobj
+113 0 obj
+<<
+/Subtype /Link
+/A 112 0 R
+/Type /Annot
+/Rect [260.57 439.890015 264.462 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+114 0 obj
+<<
+/S /URI
+/URI (https://www.coditation.com/blog/branching-merging-strategies-with-git)
+>>
+endobj
+115 0 obj
+<<
+/Subtype /Link
+/A 114 0 R
+/Type /Annot
+/Rect [264.462 439.890015 272.246 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+116 0 obj
+<<
+/S /URI
+/URI (https://www.coditation.com/blog/branching-merging-strategies-with-git)
+>>
+endobj
+117 0 obj
+<<
+/Subtype /Link
+/A 116 0 R
+/Type /Annot
+/Rect [272.246 439.890015 276.138 455.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+118 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+119 0 obj
+<<
+/Subtype /Link
+/A 118 0 R
+/Type /Annot
+/Rect [475.834 331.290015 479.726 346.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+120 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+121 0 obj
+<<
+/Subtype /Link
+/A 120 0 R
+/Type /Annot
+/Rect [479.726 331.290015 487.51 346.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+122 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+123 0 obj
+<<
+/Subtype /Link
+/A 122 0 R
+/Type /Annot
+/Rect [487.51 331.290015 491.402 346.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+124 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+125 0 obj
+<<
+/Subtype /Link
+/A 124 0 R
+/Type /Annot
+/Rect [467.896 222.690039 471.788 238.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+126 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+127 0 obj
+<<
+/Subtype /Link
+/A 126 0 R
+/Type /Annot
+/Rect [471.788 222.690039 479.572 238.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+128 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+129 0 obj
+<<
+/Subtype /Link
+/A 128 0 R
+/Type /Annot
+/Rect [479.572 222.690039 483.464 238.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+130 0 obj
+<<
+/S /URI
+/URI (https://dzone.com/articles/cicd-metrics)
+>>
+endobj
+131 0 obj
+<<
+/Subtype /Link
+/A 130 0 R
+/Type /Annot
+/Rect [80.46 114.090063 84.352 129.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+132 0 obj
+<<
+/S /URI
+/URI (https://dzone.com/articles/cicd-metrics)
+>>
+endobj
+133 0 obj
+<<
+/Subtype /Link
+/A 132 0 R
+/Type /Annot
+/Rect [84.352 114.090063 92.136 129.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+134 0 obj
+<<
+/S /URI
+/URI (https://dzone.com/articles/cicd-metrics)
+>>
+endobj
+135 0 obj
+<<
+/Subtype /Link
+/A 134 0 R
+/Type /Annot
+/Rect [92.136 114.090063 96.028 129.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+136 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+137 0 obj
+<<
+/Subtype /Link
+/A 136 0 R
+/Type /Annot
+/Rect [181.47 83.290063 185.362 98.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+138 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+139 0 obj
+<<
+/Subtype /Link
+/A 138 0 R
+/Type /Annot
+/Rect [185.362 83.290063 193.146 98.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+140 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+141 0 obj
+<<
+/Subtype /Link
+/A 140 0 R
+/Type /Annot
+/Rect [193.146 83.290063 197.038 98.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+87 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 85 0 R
+/Resources 86 0 R
+/UserUnit 1
+/Annots [89 0 R 91 0 R 93 0 R 95 0 R 97 0 R 99 0 R 101 0 R 103 0 R 105 0 R 107 0 R 109 0 R 111 0 R 113 0 R 115 0 R 117 0 R 119 0 R 121 0 R 123 0 R 125 0 R 127 0 R 129 0 R 131 0 R 133 0 R 135 0 R 137 0 R 139 0 R 141 0 R]
+>>
+endobj
+86 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+145 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+146 0 obj
+<<
+/Subtype /Link
+/A 145 0 R
+/Type /Annot
+/Rect [152.336 672.490018 156.228 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+147 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+148 0 obj
+<<
+/Subtype /Link
+/A 147 0 R
+/Type /Annot
+/Rect [156.228 672.490018 164.012 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+149 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+150 0 obj
+<<
+/Subtype /Link
+/A 149 0 R
+/Type /Annot
+/Rect [164.012 672.490018 167.904 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+151 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+152 0 obj
+<<
+/Subtype /Link
+/A 151 0 R
+/Type /Annot
+/Rect [167.904 672.490018 171.796 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+153 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+154 0 obj
+<<
+/Subtype /Link
+/A 153 0 R
+/Type /Annot
+/Rect [171.796 672.490018 187.364 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+155 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+156 0 obj
+<<
+/Subtype /Link
+/A 155 0 R
+/Type /Annot
+/Rect [187.364 672.490018 191.256 687.890018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+157 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+158 0 obj
+<<
+/Subtype /Link
+/A 157 0 R
+/Type /Annot
+/Rect [334.308 626.290018 338.2 641.690018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+159 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+160 0 obj
+<<
+/Subtype /Link
+/A 159 0 R
+/Type /Annot
+/Rect [338.2 626.290018 345.984 641.690018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+161 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+162 0 obj
+<<
+/Subtype /Link
+/A 161 0 R
+/Type /Annot
+/Rect [345.984 626.290018 349.876 641.690018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+163 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+164 0 obj
+<<
+/Subtype /Link
+/A 163 0 R
+/Type /Annot
+/Rect [83.722 517.690009 87.614 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+165 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+166 0 obj
+<<
+/Subtype /Link
+/A 165 0 R
+/Type /Annot
+/Rect [87.614 517.690009 103.182 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+167 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+168 0 obj
+<<
+/Subtype /Link
+/A 167 0 R
+/Type /Annot
+/Rect [103.182 517.690009 107.074 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+169 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+170 0 obj
+<<
+/Subtype /Link
+/A 169 0 R
+/Type /Annot
+/Rect [107.074 517.690009 110.966 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+171 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+172 0 obj
+<<
+/Subtype /Link
+/A 171 0 R
+/Type /Annot
+/Rect [110.966 517.690009 126.534 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+173 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+174 0 obj
+<<
+/Subtype /Link
+/A 173 0 R
+/Type /Annot
+/Rect [126.534 517.690009 130.426 533.090009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+175 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+176 0 obj
+<<
+/Subtype /Link
+/A 175 0 R
+/Type /Annot
+/Rect [73.25 486.890009 77.142 502.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+177 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+178 0 obj
+<<
+/Subtype /Link
+/A 177 0 R
+/Type /Annot
+/Rect [77.142 486.890009 92.71 502.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+179 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+180 0 obj
+<<
+/Subtype /Link
+/A 179 0 R
+/Type /Annot
+/Rect [92.71 486.890009 96.602 502.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+181 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+182 0 obj
+<<
+/Subtype /Link
+/A 181 0 R
+/Type /Annot
+/Rect [112.489094 378.290015 116.381094 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+183 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+184 0 obj
+<<
+/Subtype /Link
+/A 183 0 R
+/Type /Annot
+/Rect [116.381094 378.290015 131.949094 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+185 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+186 0 obj
+<<
+/Subtype /Link
+/A 185 0 R
+/Type /Annot
+/Rect [131.949094 378.290015 135.841094 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+187 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+188 0 obj
+<<
+/Subtype /Link
+/A 187 0 R
+/Type /Annot
+/Rect [135.841094 378.290015 139.733094 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+189 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+190 0 obj
+<<
+/Subtype /Link
+/A 189 0 R
+/Type /Annot
+/Rect [139.733094 378.290015 155.301094 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+191 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+192 0 obj
+<<
+/Subtype /Link
+/A 191 0 R
+/Type /Annot
+/Rect [155.301094 378.290015 159.11464 393.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+193 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+194 0 obj
+<<
+/Subtype /Link
+/A 193 0 R
+/Type /Annot
+/Rect [127.43 347.490015 131.322 362.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+195 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+196 0 obj
+<<
+/Subtype /Link
+/A 195 0 R
+/Type /Annot
+/Rect [131.322 347.490015 146.89 362.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+197 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+198 0 obj
+<<
+/Subtype /Link
+/A 197 0 R
+/Type /Annot
+/Rect [146.89 347.490015 150.782 362.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+199 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+200 0 obj
+<<
+/Subtype /Link
+/A 199 0 R
+/Type /Annot
+/Rect [324.802 223.490021 328.694 238.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+201 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+202 0 obj
+<<
+/Subtype /Link
+/A 201 0 R
+/Type /Annot
+/Rect [328.694 223.490021 344.262 238.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+203 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+204 0 obj
+<<
+/Subtype /Link
+/A 203 0 R
+/Type /Annot
+/Rect [344.262 223.490021 348.154 238.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+205 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+206 0 obj
+<<
+/Subtype /Link
+/A 205 0 R
+/Type /Annot
+/Rect [352.69 114.88999 356.582 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+207 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+208 0 obj
+<<
+/Subtype /Link
+/A 207 0 R
+/Type /Annot
+/Rect [356.582 114.88999 372.15 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+209 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+210 0 obj
+<<
+/Subtype /Link
+/A 209 0 R
+/Type /Annot
+/Rect [372.15 114.88999 376.042 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+211 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+212 0 obj
+<<
+/Subtype /Link
+/A 211 0 R
+/Type /Annot
+/Rect [376.042 114.88999 379.934 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+213 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+214 0 obj
+<<
+/Subtype /Link
+/A 213 0 R
+/Type /Annot
+/Rect [379.934 114.88999 395.502 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+215 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+216 0 obj
+<<
+/Subtype /Link
+/A 215 0 R
+/Type /Annot
+/Rect [395.502 114.88999 399.394 130.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+217 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+218 0 obj
+<<
+/Subtype /Link
+/A 217 0 R
+/Type /Annot
+/Rect [79.97 68.68999 83.862 84.08999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+219 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+220 0 obj
+<<
+/Subtype /Link
+/A 219 0 R
+/Type /Annot
+/Rect [83.862 68.68999 99.43 84.08999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+221 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+222 0 obj
+<<
+/Subtype /Link
+/A 221 0 R
+/Type /Annot
+/Rect [99.43 68.68999 103.322 84.08999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+144 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 142 0 R
+/Resources 143 0 R
+/UserUnit 1
+/Annots [146 0 R 148 0 R 150 0 R 152 0 R 154 0 R 156 0 R 158 0 R 160 0 R 162 0 R 164 0 R 166 0 R 168 0 R 170 0 R 172 0 R 174 0 R 176 0 R 178 0 R 180 0 R 182 0 R 184 0 R 186 0 R 188 0 R 190 0 R 192 0 R 194 0 R 196 0 R 198 0 R 200 0 R 202 0 R 204 0 R 206 0 R 208 0 R 210 0 R 212 0 R 214 0 R 216 0 R 218 0 R 220 0 R 222 0 R]
+>>
+endobj
+143 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+226 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+227 0 obj
+<<
+/Subtype /Link
+/A 226 0 R
+/Type /Annot
+/Rect [337.318 574.890009 341.21 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+228 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+229 0 obj
+<<
+/Subtype /Link
+/A 228 0 R
+/Type /Annot
+/Rect [341.21 574.890009 356.778 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+230 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+231 0 obj
+<<
+/Subtype /Link
+/A 230 0 R
+/Type /Annot
+/Rect [356.778 574.890009 360.67 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+232 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/cicd-testing)
+>>
+endobj
+233 0 obj
+<<
+/Subtype /Link
+/A 232 0 R
+/Type /Annot
+/Rect [360.67 574.890009 364.562 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+234 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/cicd-testing)
+>>
+endobj
+235 0 obj
+<<
+/Subtype /Link
+/A 234 0 R
+/Type /Annot
+/Rect [364.562 574.890009 380.13 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+236 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/cicd-testing)
+>>
+endobj
+237 0 obj
+<<
+/Subtype /Link
+/A 236 0 R
+/Type /Annot
+/Rect [380.13 574.890009 384.022 590.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+238 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+239 0 obj
+<<
+/Subtype /Link
+/A 238 0 R
+/Type /Annot
+/Rect [395.862912 435.490015 399.754912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+240 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+241 0 obj
+<<
+/Subtype /Link
+/A 240 0 R
+/Type /Annot
+/Rect [399.754912 435.490015 415.322912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+242 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+243 0 obj
+<<
+/Subtype /Link
+/A 242 0 R
+/Type /Annot
+/Rect [415.322912 435.490015 419.214912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+244 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+245 0 obj
+<<
+/Subtype /Link
+/A 244 0 R
+/Type /Annot
+/Rect [419.214912 435.490015 423.106912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+246 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+247 0 obj
+<<
+/Subtype /Link
+/A 246 0 R
+/Type /Annot
+/Rect [423.106912 435.490015 438.674912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+248 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+249 0 obj
+<<
+/Subtype /Link
+/A 248 0 R
+/Type /Annot
+/Rect [438.674912 435.490015 442.566912 450.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+250 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+251 0 obj
+<<
+/Subtype /Link
+/A 250 0 R
+/Type /Annot
+/Rect [280.436 404.690015 284.328 420.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+252 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+253 0 obj
+<<
+/Subtype /Link
+/A 252 0 R
+/Type /Annot
+/Rect [284.328 404.690015 299.896 420.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+254 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+255 0 obj
+<<
+/Subtype /Link
+/A 254 0 R
+/Type /Annot
+/Rect [299.896 404.690015 303.788 420.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+256 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+257 0 obj
+<<
+/Subtype /Link
+/A 256 0 R
+/Type /Annot
+/Rect [250.588 280.690002 254.48 296.090002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+258 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+259 0 obj
+<<
+/Subtype /Link
+/A 258 0 R
+/Type /Annot
+/Rect [254.48 280.690002 270.048 296.090002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+260 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+261 0 obj
+<<
+/Subtype /Link
+/A 260 0 R
+/Type /Annot
+/Rect [270.048 280.690002 273.94 296.090002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+262 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+263 0 obj
+<<
+/Subtype /Link
+/A 262 0 R
+/Type /Annot
+/Rect [191.802 141.290002 195.694 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+264 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+265 0 obj
+<<
+/Subtype /Link
+/A 264 0 R
+/Type /Annot
+/Rect [195.694 141.290002 211.262 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+266 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+267 0 obj
+<<
+/Subtype /Link
+/A 266 0 R
+/Type /Annot
+/Rect [211.262 141.290002 215.154 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+268 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+269 0 obj
+<<
+/Subtype /Link
+/A 268 0 R
+/Type /Annot
+/Rect [215.154 141.290002 219.046 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+270 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+271 0 obj
+<<
+/Subtype /Link
+/A 270 0 R
+/Type /Annot
+/Rect [219.046 141.290002 234.614 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+272 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+273 0 obj
+<<
+/Subtype /Link
+/A 272 0 R
+/Type /Annot
+/Rect [234.614 141.290002 238.506 156.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+225 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 223 0 R
+/Resources 224 0 R
+/UserUnit 1
+/Annots [227 0 R 229 0 R 231 0 R 233 0 R 235 0 R 237 0 R 239 0 R 241 0 R 243 0 R 245 0 R 247 0 R 249 0 R 251 0 R 253 0 R 255 0 R 257 0 R 259 0 R 261 0 R 263 0 R 265 0 R 267 0 R 269 0 R 271 0 R 273 0 R]
+>>
+endobj
+224 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+277 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+278 0 obj
+<<
+/Subtype /Link
+/A 277 0 R
+/Type /Annot
+/Rect [504.684029 796.490015 508.576029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+279 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+280 0 obj
+<<
+/Subtype /Link
+/A 279 0 R
+/Type /Annot
+/Rect [508.576029 796.490015 524.144029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+281 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+282 0 obj
+<<
+/Subtype /Link
+/A 281 0 R
+/Type /Annot
+/Rect [524.144029 796.490015 528.036029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+283 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+284 0 obj
+<<
+/Subtype /Link
+/A 283 0 R
+/Type /Annot
+/Rect [528.036029 796.490015 531.928029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+285 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+286 0 obj
+<<
+/Subtype /Link
+/A 285 0 R
+/Type /Annot
+/Rect [531.928029 796.490015 547.496029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+287 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+288 0 obj
+<<
+/Subtype /Link
+/A 287 0 R
+/Type /Annot
+/Rect [547.496029 796.490015 551.388029 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+289 0 obj
+<<
+/S /URI
+/URI (https://www.testrail.com/blog/test-planning-guide/)
+>>
+endobj
+290 0 obj
+<<
+/Subtype /Link
+/A 289 0 R
+/Type /Annot
+/Rect [490.45 579.890015 494.342 595.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+291 0 obj
+<<
+/S /URI
+/URI (https://www.testrail.com/blog/test-planning-guide/)
+>>
+endobj
+292 0 obj
+<<
+/Subtype /Link
+/A 291 0 R
+/Type /Annot
+/Rect [494.342 579.890015 509.91 595.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+293 0 obj
+<<
+/S /URI
+/URI (https://www.testrail.com/blog/test-planning-guide/)
+>>
+endobj
+294 0 obj
+<<
+/Subtype /Link
+/A 293 0 R
+/Type /Annot
+/Rect [509.91 579.890015 513.802 595.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+295 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/test-automation-metrics)
+>>
+endobj
+296 0 obj
+<<
+/Subtype /Link
+/A 295 0 R
+/Type /Annot
+/Rect [490.94 458.090027 494.832 473.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+297 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/test-automation-metrics)
+>>
+endobj
+298 0 obj
+<<
+/Subtype /Link
+/A 297 0 R
+/Type /Annot
+/Rect [494.832 458.090027 510.4 473.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+299 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/test-automation-metrics)
+>>
+endobj
+300 0 obj
+<<
+/Subtype /Link
+/A 299 0 R
+/Type /Annot
+/Rect [510.4 458.090027 514.292 473.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+301 0 obj
+<<
+/S /URI
+/URI (https://spurqlabs.com/key-performance-indicators-kpis-for-effective-test-automation/)
+>>
+endobj
+302 0 obj
+<<
+/Subtype /Link
+/A 301 0 R
+/Type /Annot
+/Rect [507.586 318.690027 511.478 334.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+303 0 obj
+<<
+/S /URI
+/URI (https://spurqlabs.com/key-performance-indicators-kpis-for-effective-test-automation/)
+>>
+endobj
+304 0 obj
+<<
+/Subtype /Link
+/A 303 0 R
+/Type /Annot
+/Rect [511.478 318.690027 527.046 334.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+305 0 obj
+<<
+/S /URI
+/URI (https://spurqlabs.com/key-performance-indicators-kpis-for-effective-test-automation/)
+>>
+endobj
+306 0 obj
+<<
+/Subtype /Link
+/A 305 0 R
+/Type /Annot
+/Rect [527.046 318.690027 530.938 334.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+307 0 obj
+<<
+/S /URI
+/URI (https://theproductivenerd.com/branching-merging-version-control/)
+>>
+endobj
+308 0 obj
+<<
+/Subtype /Link
+/A 307 0 R
+/Type /Annot
+/Rect [427.604 196.890015 431.496 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+309 0 obj
+<<
+/S /URI
+/URI (https://theproductivenerd.com/branching-merging-version-control/)
+>>
+endobj
+310 0 obj
+<<
+/Subtype /Link
+/A 309 0 R
+/Type /Annot
+/Rect [431.496 196.890015 447.064 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+311 0 obj
+<<
+/S /URI
+/URI (https://theproductivenerd.com/branching-merging-version-control/)
+>>
+endobj
+312 0 obj
+<<
+/Subtype /Link
+/A 311 0 R
+/Type /Annot
+/Rect [447.064 196.890015 450.956 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+313 0 obj
+<<
+/S /URI
+/URI (https://stackoverflow.com/questions/17033692/how-to-handle-git-continuous-integration-merge-conflicts)
+>>
+endobj
+314 0 obj
+<<
+/Subtype /Link
+/A 313 0 R
+/Type /Annot
+/Rect [450.956 196.890015 454.848 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+315 0 obj
+<<
+/S /URI
+/URI (https://stackoverflow.com/questions/17033692/how-to-handle-git-continuous-integration-merge-conflicts)
+>>
+endobj
+316 0 obj
+<<
+/Subtype /Link
+/A 315 0 R
+/Type /Annot
+/Rect [454.848 196.890015 470.416 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+317 0 obj
+<<
+/S /URI
+/URI (https://stackoverflow.com/questions/17033692/how-to-handle-git-continuous-integration-merge-conflicts)
+>>
+endobj
+318 0 obj
+<<
+/Subtype /Link
+/A 317 0 R
+/Type /Annot
+/Rect [470.416 196.890015 474.308 212.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+319 0 obj
+<<
+/S /URI
+/URI (https://dev.to/angelotheman/git-branching-strategies-for-devops-best-practices-for-collaboration-35l8)
+>>
+endobj
+320 0 obj
+<<
+/Subtype /Link
+/A 319 0 R
+/Type /Annot
+/Rect [527.9 166.090015 531.792 181.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+321 0 obj
+<<
+/S /URI
+/URI (https://dev.to/angelotheman/git-branching-strategies-for-devops-best-practices-for-collaboration-35l8)
+>>
+endobj
+322 0 obj
+<<
+/Subtype /Link
+/A 321 0 R
+/Type /Annot
+/Rect [531.792 166.090015 547.36 181.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+323 0 obj
+<<
+/S /URI
+/URI (https://dev.to/angelotheman/git-branching-strategies-for-devops-best-practices-for-collaboration-35l8)
+>>
+endobj
+324 0 obj
+<<
+/Subtype /Link
+/A 323 0 R
+/Type /Annot
+/Rect [547.36 166.090015 551.252 181.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+276 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 274 0 R
+/Resources 275 0 R
+/UserUnit 1
+/Annots [278 0 R 280 0 R 282 0 R 284 0 R 286 0 R 288 0 R 290 0 R 292 0 R 294 0 R 296 0 R 298 0 R 300 0 R 302 0 R 304 0 R 306 0 R 308 0 R 310 0 R 312 0 R 314 0 R 316 0 R 318 0 R 320 0 R 322 0 R 324 0 R]
+>>
+endobj
+275 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+328 0 obj
+<<
+/S /URI
+/URI (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/organizational-culture-in-mergers-addressing-the-unseen-forces)
+>>
+endobj
+329 0 obj
+<<
+/Subtype /Link
+/A 328 0 R
+/Type /Annot
+/Rect [467.168 781.090015 471.06 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+330 0 obj
+<<
+/S /URI
+/URI (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/organizational-culture-in-mergers-addressing-the-unseen-forces)
+>>
+endobj
+331 0 obj
+<<
+/Subtype /Link
+/A 330 0 R
+/Type /Annot
+/Rect [471.06 781.090015 486.628 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+332 0 obj
+<<
+/S /URI
+/URI (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/organizational-culture-in-mergers-addressing-the-unseen-forces)
+>>
+endobj
+333 0 obj
+<<
+/Subtype /Link
+/A 332 0 R
+/Type /Annot
+/Rect [486.628 781.090015 490.52 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+334 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+335 0 obj
+<<
+/Subtype /Link
+/A 334 0 R
+/Type /Annot
+/Rect [146.946 488.890015 150.838 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+336 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+337 0 obj
+<<
+/Subtype /Link
+/A 336 0 R
+/Type /Annot
+/Rect [150.838 488.890015 166.406 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+338 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+339 0 obj
+<<
+/Subtype /Link
+/A 338 0 R
+/Type /Annot
+/Rect [166.406 488.890015 170.298 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+340 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+341 0 obj
+<<
+/Subtype /Link
+/A 340 0 R
+/Type /Annot
+/Rect [170.298 488.890015 174.19 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+342 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+343 0 obj
+<<
+/Subtype /Link
+/A 342 0 R
+/Type /Annot
+/Rect [174.19 488.890015 189.758 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+344 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+345 0 obj
+<<
+/Subtype /Link
+/A 344 0 R
+/Type /Annot
+/Rect [189.758 488.890015 193.65 504.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+346 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+347 0 obj
+<<
+/Subtype /Link
+/A 346 0 R
+/Type /Annot
+/Rect [441.94 367.090027 445.832 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+348 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+349 0 obj
+<<
+/Subtype /Link
+/A 348 0 R
+/Type /Annot
+/Rect [445.832 367.090027 461.4 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+350 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+351 0 obj
+<<
+/Subtype /Link
+/A 350 0 R
+/Type /Annot
+/Rect [461.4 367.090027 465.292 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+352 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+353 0 obj
+<<
+/Subtype /Link
+/A 352 0 R
+/Type /Annot
+/Rect [465.292 367.090027 469.184 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+354 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+355 0 obj
+<<
+/Subtype /Link
+/A 354 0 R
+/Type /Annot
+/Rect [469.184 367.090027 484.752 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+356 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+357 0 obj
+<<
+/Subtype /Link
+/A 356 0 R
+/Type /Annot
+/Rect [484.752 367.090027 488.644 382.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+358 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+359 0 obj
+<<
+/Subtype /Link
+/A 358 0 R
+/Type /Annot
+/Rect [161.1 245.290039 164.992 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+360 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+361 0 obj
+<<
+/Subtype /Link
+/A 360 0 R
+/Type /Annot
+/Rect [164.992 245.290039 180.56 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+362 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+363 0 obj
+<<
+/Subtype /Link
+/A 362 0 R
+/Type /Annot
+/Rect [180.56 245.290039 184.452 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+364 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+365 0 obj
+<<
+/Subtype /Link
+/A 364 0 R
+/Type /Annot
+/Rect [184.452 245.290039 188.344 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+366 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+367 0 obj
+<<
+/Subtype /Link
+/A 366 0 R
+/Type /Annot
+/Rect [188.344 245.290039 203.912 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+368 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+369 0 obj
+<<
+/Subtype /Link
+/A 368 0 R
+/Type /Annot
+/Rect [203.912 245.290039 207.804 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+370 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+371 0 obj
+<<
+/Subtype /Link
+/A 370 0 R
+/Type /Annot
+/Rect [207.804 245.290039 211.696 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+372 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+373 0 obj
+<<
+/Subtype /Link
+/A 372 0 R
+/Type /Annot
+/Rect [211.696 245.290039 227.264 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+374 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+375 0 obj
+<<
+/Subtype /Link
+/A 374 0 R
+/Type /Annot
+/Rect [227.264 245.290039 231.156 260.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+376 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+377 0 obj
+<<
+/Subtype /Link
+/A 376 0 R
+/Type /Annot
+/Rect [207.02 123.490051 210.912 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+378 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+379 0 obj
+<<
+/Subtype /Link
+/A 378 0 R
+/Type /Annot
+/Rect [210.912 123.490051 226.48 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+380 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+381 0 obj
+<<
+/Subtype /Link
+/A 380 0 R
+/Type /Annot
+/Rect [226.48 123.490051 230.372 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+382 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+383 0 obj
+<<
+/Subtype /Link
+/A 382 0 R
+/Type /Annot
+/Rect [230.372 123.490051 234.264 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+384 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+385 0 obj
+<<
+/Subtype /Link
+/A 384 0 R
+/Type /Annot
+/Rect [234.264 123.490051 249.832 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+386 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+387 0 obj
+<<
+/Subtype /Link
+/A 386 0 R
+/Type /Annot
+/Rect [249.832 123.490051 253.724 138.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+327 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 325 0 R
+/Resources 326 0 R
+/UserUnit 1
+/Annots [329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R 369 0 R 371 0 R 373 0 R 375 0 R 377 0 R 379 0 R 381 0 R 383 0 R 385 0 R 387 0 R]
+>>
+endobj
+326 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+391 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+392 0 obj
+<<
+/Subtype /Link
+/A 391 0 R
+/Type /Annot
+/Rect [331.536 781.090015 335.428 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+393 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+394 0 obj
+<<
+/Subtype /Link
+/A 393 0 R
+/Type /Annot
+/Rect [335.428 781.090015 350.996 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+395 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+396 0 obj
+<<
+/Subtype /Link
+/A 395 0 R
+/Type /Annot
+/Rect [350.996 781.090015 354.888 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+397 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+398 0 obj
+<<
+/Subtype /Link
+/A 397 0 R
+/Type /Annot
+/Rect [354.888 781.090015 358.78 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+399 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+400 0 obj
+<<
+/Subtype /Link
+/A 399 0 R
+/Type /Annot
+/Rect [358.78 781.090015 374.348 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+401 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+402 0 obj
+<<
+/Subtype /Link
+/A 401 0 R
+/Type /Annot
+/Rect [374.348 781.090015 378.24 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+403 0 obj
+<<
+/S /URI
+/URI (https://www.browserstack.com/guide/cicd-tools-in-automation-testing)
+>>
+endobj
+404 0 obj
+<<
+/Subtype /Link
+/A 403 0 R
+/Type /Annot
+/Rect [103.798 674.690016 107.69 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+405 0 obj
+<<
+/S /URI
+/URI (https://www.browserstack.com/guide/cicd-tools-in-automation-testing)
+>>
+endobj
+406 0 obj
+<<
+/Subtype /Link
+/A 405 0 R
+/Type /Annot
+/Rect [107.69 674.690016 123.258 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+407 0 obj
+<<
+/S /URI
+/URI (https://www.browserstack.com/guide/cicd-tools-in-automation-testing)
+>>
+endobj
+408 0 obj
+<<
+/Subtype /Link
+/A 407 0 R
+/Type /Annot
+/Rect [123.258 674.690016 127.15 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+409 0 obj
+<<
+/S /URI
+/URI (https://thectoclub.com/tools/best-ci-cd-tools/)
+>>
+endobj
+410 0 obj
+<<
+/Subtype /Link
+/A 409 0 R
+/Type /Annot
+/Rect [127.15 674.690016 131.042 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+411 0 obj
+<<
+/S /URI
+/URI (https://thectoclub.com/tools/best-ci-cd-tools/)
+>>
+endobj
+412 0 obj
+<<
+/Subtype /Link
+/A 411 0 R
+/Type /Annot
+/Rect [131.042 674.690016 146.61 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+413 0 obj
+<<
+/S /URI
+/URI (https://thectoclub.com/tools/best-ci-cd-tools/)
+>>
+endobj
+414 0 obj
+<<
+/Subtype /Link
+/A 413 0 R
+/Type /Annot
+/Rect [146.61 674.690016 150.502 690.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+415 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@gaganjain9319/common-causes-of-build-failure-in-ci-cd-pipeline-and-how-to-debug-those-ee6fdb79caad)
+>>
+endobj
+416 0 obj
+<<
+/Subtype /Link
+/A 415 0 R
+/Type /Annot
+/Rect [76.543999 561.690027 533.07 577.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+417 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/)
+>>
+endobj
+418 0 obj
+<<
+/Subtype /Link
+/A 417 0 R
+/Type /Annot
+/Rect [76.543999 541.290033 522.107994 556.690033]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+419 0 obj
+<<
+/S /URI
+/URI (https://www.parabuildci.org/support/articles/continuous_integration_build_breakage_patterns.htm)
+>>
+endobj
+420 0 obj
+<<
+/Subtype /Link
+/A 419 0 R
+/Type /Annot
+/Rect [76.543999 520.890039 472.925987 536.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+421 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchsoftwarequality/CI-CD-pipelines-explained-Everything-you-need-to-know)
+>>
+endobj
+422 0 obj
+<<
+/Subtype /Link
+/A 421 0 R
+/Type /Annot
+/Rect [76.543999 500.490046 503.572014 515.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+423 0 obj
+<<
+/S /URI
+/URI (https://lakefs.io/blog/cicd-pipeline-guide/)
+>>
+endobj
+424 0 obj
+<<
+/Subtype /Link
+/A 423 0 R
+/Type /Annot
+/Rect [76.543999 480.090052 507.043999 495.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+425 0 obj
+<<
+/S /URI
+/URI (https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+>>
+endobj
+426 0 obj
+<<
+/Subtype /Link
+/A 425 0 R
+/Type /Annot
+/Rect [76.543999 459.690058 421.44799 475.090057]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+427 0 obj
+<<
+/S /URI
+/URI (https://www.slingacademy.com/article/git-post-merge-hook-the-ultimate-guide-with-examples/)
+>>
+endobj
+428 0 obj
+<<
+/Subtype /Link
+/A 427 0 R
+/Type /Annot
+/Rect [76.543999 439.290064 436.987999 454.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+429 0 obj
+<<
+/S /URI
+/URI (https://www.coditation.com/blog/branching-merging-strategies-with-git)
+>>
+endobj
+430 0 obj
+<<
+/Subtype /Link
+/A 429 0 R
+/Type /Annot
+/Rect [76.543999 418.89007 405.390007 434.29007]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+431 0 obj
+<<
+/S /URI
+/URI (https://dzone.com/articles/cicd-metrics)
+>>
+endobj
+432 0 obj
+<<
+/Subtype /Link
+/A 431 0 R
+/Type /Annot
+/Rect [76.543999 398.490076 381.842003 413.890076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+433 0 obj
+<<
+/S /URI
+/URI (https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
+>>
+endobj
+434 0 obj
+<<
+/Subtype /Link
+/A 433 0 R
+/Type /Annot
+/Rect [84.327999 378.090082 296.441998 393.490082]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+435 0 obj
+<<
+/S /URI
+/URI (https://romanglushach.medium.com/from-code-to-production-a-comprehensive-practical-guide-to-ci-cd-pipelines-ad3669f40ce0)
+>>
+endobj
+436 0 obj
+<<
+/Subtype /Link
+/A 435 0 R
+/Type /Annot
+/Rect [84.327999 357.690088 529.891994 373.090088]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+437 0 obj
+<<
+/S /URI
+/URI (https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend/)
+>>
+endobj
+438 0 obj
+<<
+/Subtype /Link
+/A 437 0 R
+/Type /Annot
+/Rect [84.327999 337.290094 431.75201 352.690094]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+439 0 obj
+<<
+/S /URI
+/URI (https://nioyatech.com/ci-cd-pipeline-a-comprehensive-guide/)
+>>
+endobj
+440 0 obj
+<<
+/Subtype /Link
+/A 439 0 R
+/Type /Annot
+/Rect [84.327999 316.8901 452.080013 332.2901]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+441 0 obj
+<<
+/S /URI
+/URI (https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg)
+>>
+endobj
+442 0 obj
+<<
+/Subtype /Link
+/A 441 0 R
+/Type /Annot
+/Rect [84.327999 296.490107 443.021999 311.890106]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+443 0 obj
+<<
+/S /URI
+/URI (https://www.bugwolf.com/blog/mastering-version-control-a-must-have-skill-for-agile-software-development-teams)
+>>
+endobj
+444 0 obj
+<<
+/Subtype /Link
+/A 443 0 R
+/Type /Annot
+/Rect [84.327999 276.090113 490.775997 291.490112]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+445 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/cicd-testing)
+>>
+endobj
+446 0 obj
+<<
+/Subtype /Link
+/A 445 0 R
+/Type /Annot
+/Rect [84.327999 255.690088 393.854 271.090088]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+447 0 obj
+<<
+/S /URI
+/URI (https://thinksys.com/qa-testing/test-automation-metrics/)
+>>
+endobj
+448 0 obj
+<<
+/Subtype /Link
+/A 447 0 R
+/Type /Annot
+/Rect [84.327999 235.290064 383.633999 250.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+449 0 obj
+<<
+/S /URI
+/URI (https://www.testrail.com/blog/test-planning-guide/)
+>>
+endobj
+450 0 obj
+<<
+/Subtype /Link
+/A 449 0 R
+/Type /Annot
+/Rect [84.327999 214.890039 494.178005 230.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+451 0 obj
+<<
+/S /URI
+/URI (https://www.lambdatest.com/learning-hub/test-automation-metrics)
+>>
+endobj
+452 0 obj
+<<
+/Subtype /Link
+/A 451 0 R
+/Type /Annot
+/Rect [84.327999 194.490015 508.26199 209.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+453 0 obj
+<<
+/S /URI
+/URI (https://spurqlabs.com/key-performance-indicators-kpis-for-effective-test-automation/)
+>>
+endobj
+454 0 obj
+<<
+/Subtype /Link
+/A 453 0 R
+/Type /Annot
+/Rect [84.327999 174.089991 477.881985 189.48999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+455 0 obj
+<<
+/S /URI
+/URI (https://theproductivenerd.com/branching-merging-version-control/)
+>>
+endobj
+456 0 obj
+<<
+/Subtype /Link
+/A 455 0 R
+/Type /Annot
+/Rect [84.327999 153.689966 482.025997 169.089966]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+457 0 obj
+<<
+/S /URI
+/URI (https://stackoverflow.com/questions/17033692/how-to-handle-git-continuous-integration-merge-conflicts)
+>>
+endobj
+458 0 obj
+<<
+/Subtype /Link
+/A 457 0 R
+/Type /Annot
+/Rect [84.327999 133.289942 433.851986 148.689941]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+459 0 obj
+<<
+/S /URI
+/URI (https://dev.to/angelotheman/git-branching-strategies-for-devops-best-practices-for-collaboration-35l8)
+>>
+endobj
+460 0 obj
+<<
+/Subtype /Link
+/A 459 0 R
+/Type /Annot
+/Rect [84.327999 112.889917 512.084011 128.289917]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+461 0 obj
+<<
+/S /URI
+/URI (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/organizational-culture-in-mergers-addressing-the-unseen-forces)
+>>
+endobj
+462 0 obj
+<<
+/Subtype /Link
+/A 461 0 R
+/Type /Annot
+/Rect [84.327999 92.489893 502.774014 107.889893]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+463 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@xcube_LABS/mastering-continuous-integration-and-continuous-deployment-ci-cd-tools-e7e4994f8fe5)
+>>
+endobj
+464 0 obj
+<<
+/Subtype /Link
+/A 463 0 R
+/Type /Annot
+/Rect [83.269226 72.089869 545.280029 87.489868]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+465 0 obj
+<<
+/S /URI
+/URI (https://blog.jetbrains.com/teamcity/2023/07/best-ci-tools/)
+>>
+endobj
+466 0 obj
+<<
+/Subtype /Link
+/A 465 0 R
+/Type /Annot
+/Rect [84.327999 51.689844 448.958004 67.089844]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+467 0 obj
+<<
+/S /URI
+/URI (https://spacelift.io/blog/ci-cd-tools)
+>>
+endobj
+468 0 obj
+<<
+/Subtype /Link
+/A 467 0 R
+/Type /Annot
+/Rect [84.327999 31.28982 407.518002 46.689819]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+390 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 388 0 R
+/Resources 389 0 R
+/UserUnit 1
+/Annots [392 0 R 394 0 R 396 0 R 398 0 R 400 0 R 402 0 R 404 0 R 406 0 R 408 0 R 410 0 R 412 0 R 414 0 R 416 0 R 418 0 R 420 0 R 422 0 R 424 0 R 426 0 R 428 0 R 430 0 R 432 0 R 434 0 R 436 0 R 438 0 R 440 0 R 442 0 R 444 0 R 446 0 R 448 0 R 450 0 R 452 0 R 454 0 R 456 0 R 458 0 R 460 0 R 462 0 R 464 0 R 466 0 R 468 0 R]
+>>
+endobj
+389 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+472 0 obj
+<<
+/S /URI
+/URI (https://www.browserstack.com/guide/cicd-tools-in-automation-testing)
+>>
+endobj
+473 0 obj
+<<
+/Subtype /Link
+/A 472 0 R
+/Type /Annot
+/Rect [84.327999 791.490015 442.447994 806.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+474 0 obj
+<<
+/S /URI
+/URI (https://thectoclub.com/tools/best-ci-cd-tools/)
+>>
+endobj
+475 0 obj
+<<
+/Subtype /Link
+/A 474 0 R
+/Type /Annot
+/Rect [84.327999 771.090015 365.812008 786.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+471 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 469 0 R
+/Resources 470 0 R
+/UserUnit 1
+/Annots [473 0 R 475 0 R]
+>>
+endobj
+470 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+477 0 obj
+(react-pdf)
+endobj
+478 0 obj
+(react-pdf)
+endobj
+479 0 obj
+(D:20241002160551Z)
+endobj
+476 0 obj
+<<
+/Producer 477 0 R
+/Creator 478 0 R
+/CreationDate 479 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+4 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Names 2 0 R
+/ViewerPreferences 5 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Count 10
+/Kids [8 0 R 13 0 R 30 0 R 87 0 R 144 0 R 225 0 R 276 0 R 327 0 R 390 0 R 471 0 R]
+>>
+endobj
+2 0 obj
+<<
+/Dests <<
+  /Names [
+]
+>>
+>>
+endobj
+5 0 obj
+<<
+/DisplayDocTitle true
+>>
+endobj
+469 0 obj
+<<
+/Length 434
+/Filter /FlateDecode
+>>
+stream
+xœíTÍnÛ0¾û)ôSIŠ¤$ ğ¡İZ`‡Y|vèœx(Ğ´¯_JvboK±a@‡Æ¶DRüù¨/èÀäÚ+1ú”P\¿o¾O‚Õ]€ò›G%‚“3ºÉï¨±‡¼İÅÛİÃ]¿ûxséúCÕ~è¿57t_vf}:w¦¦Ënsaê,òµef×Í§•|	’lÃmëÜŠ€ uğÙuï›w¥8õÄ>PË]×äëúKçâsÎfP~Û—Ç!Š&¥Èb®£rI‰‚ôšt{(8Yãn¥CëÌ¸Š±n	8ÔçyÉ“iÄLl‹Tšô1X•Øº¢‹j_§BI¥-WcÖ‰¬ÙV;Í1¨(["œüŠmĞíXÍ,1TãNcÎP’GšX {´{…lsÙ7“¹îî—CºÚüı6WšÍtUfù‰$_)1òbÄsÍcö¬c[¯¶|¦‘=•"K:Ngé¨C$‚‚‡=‹¶ó!k@NÑK.¡‡“ª]é,Š¤äøYn(¿5ÇT‹û†zNüOşò$ˆ]
+endstream
+endobj
+6 0 obj
+<<
+/Length 1538
+/Filter /FlateDecode
+>>
+stream
+xœÕZËnä6¼û+ôËe“ì&	{X$Y 7¾¹DYä |ºùĞ›y_–wƒ%Îˆ¥êêê¦¡Óüzü¨µìú¿ïş-/H@guçt=QAËÿ4X‡tg@‘Œ½ÿéòß_ıå·O»şùN§óÏı?wï?=C÷ù™ç<ó6nàããä;'§ù›Î¸îñz÷û½:«P;m±»'˜]fGnvÔÏâÎ<ÿ¡3Fa@‹Ğİ=;DlÏôvv4¿ÒîáÎ·Ì¯¤_è÷îÛ™™q)·¼›ß€{u;+6»ßú´?sşä¾Å3vrç­ŸœSÎğÍé?ºÇ_ï~~d~W# 2Ak»/3öCGQùh„Ş.ü¸ØñÎ£7„Ft†š×D²½5š"]¼£«ÑüÒåO|6'n‚`=*5"°^½!åòÙ‡tÅLj¢Q¡Öö â(ÚFÈ7m¼ã'©•ğä¼ÆŒEy|KóË¾ĞÈd“ñnË§^€¤+ƒhˆ| 8£¼K`m@”öfJ¢ ÀDe(0KÁÖ.Áó#äª\—¥3Ïz%DGåÄÅ3M˜Bé$_B|Ô<C&POMx˜"àÃ<Ì965§æJOùÃÓÀ‰‘ +Ô°ğ Kf¢ñHïX8l¢{9XîÕÁB^eUòú((‰‘g¢ğ†i­tT,QËu¯×î4Ë’ü;! :"zÍzÑ§µãLHˆxĞª2³´ÄB',¢Íì¸
+‚Û8ùÀz{ '“?!NƒğŠš¼,>xùhèöò(”å‡ó-ßÅ’Q|&Á&nÆheÌ*ç¬ ½Ê7'€ æ•œv=‡…°¤lJ·ƒ+Å#v¯¨‹œÎ¹hd—¸ÎÇØ°tb^Nš‚Ké5…„]ˆ‰ÄÎÄâÅ=‡brx lÀÍíÜ©±•6+è;H¯:ˆ˜ˆ
+ìÈV8WÆ¢Bb§pè9·9áÀ#Ø¬¤pB<f=Šœ@ÆG"ÆæÄ’Eƒ_‡‰-NÿOvkR%¬Šì0t¬Bü%R´òT“êÊ™&m›6çé•i{h€Ê÷h1£êé|ÅÀ(<B¤bj&BcÖÕñV„Ù²H	Z,1ä«ûû&e„ÕVÑŠ°o¢Šù%æŒODfù§
+£¨¾Ÿª~ñ«nUÚ){@èšFú€4ÊV©´5FÅK°år}]nÁ@ÙwN>Ê•§‰¿2>ª¸.½^`­O€Ü¦˜‚ÒVjÉ ezIÜ]J_S¨öSgÑó(U!KgºÍ8Ë©õˆßjšò 8În,÷eİ(}G©NeË4rq€|¼ª±ñ¤/sï¯U‘sŸé˜bá`ëòƒX‡{ôµZ¶R-ûØ@Ê). Õôò¯Ø´à$&‡6&~¿ğP:XÊ#_ğŞFÈáÁj§éíO€O±Šb!ä&Æ–ì†á¸é ¿ÚÛy`^5½İÂ×!PÊªa%q¯q\41ÅÇ*q%gI!W©¦‰ã—Ú¹mT£´/– ¾	3WÌ…õuÙ%Û0Í¬FQÎ•æ‘^Ö‰ZU­lj³×Tû6)¶FÉº5ëRë•³_Óà<*Õ)LÕË§EO2Vmß!VvÓy´£ è­Û°—"è—TtNz¤Cùîê‘£YquÃ·²e°ñ6^§4aß?óâÖVT#ó‘=ïöfŸœ—7OÓ@’HLPd †ÒrÚTÍmzqbkë1©Ø«e°½ÜàU~íşßDö;ĞÊ(šµ±¸ğk©å?†C§†GCõ5[‡'Àõ@4ßÜ4ñrJ~xÛèRæH^9sF|JùK_ÉV7RíªGW(1€†sÒR½^¦Bp’ÛßàG­ÜóÌIzü+Ù}É}¢™«™tÖ¥îäêŞd[Ëë\g4ì±‘E¹#;§LÏ«FÜ
+¢-·1¥Œm<é•¸²Âh«¢9š¶¹îV$=UĞ—ÿ”³Ø`
+endstream
+endobj
+11 0 obj
+<<
+/Length 2195
+/Filter /FlateDecode
+>>
+stream
+xœí[ÛnÜ6}ß¯ØCï@à‡¤m€>pã·¢ñfUh
+ÚßïÌ”(‰ÔºIí•¬ã‹$ŠÔÎœ*ê(ñë•ÂÁ(¢”ÊOŸå/ÅÔQKú—/”“Š~ËYüáèüëïÎÿ~:ÿüşíñôp|ıáôçáõûuüíï¹ïk<ÃÛ»ªÏêÒöünwÃá—7Fßàõ7Nyí,H›½ñÖõtâ×ãİ‡ïïpÀÒeĞlHÜò£Üòï™!V˜¥Ñ ¡klÍH&£mŞ€\ `>åCwÆoï¬Ë'¬;Só›£Å£©—¿N^ƒD´Î L ÂM0uƒƒà%ì»	$XÖm	r¤¹:fÄ‘ó–,~…­ŞÎ¯jÃ=‘¼õä"’/6±RÈ:ïW¬»m‚fP?~46A€Ÿr„!³Äã1ØÄ5Æ‹h58÷80;KUy)´{™ÓZ4DÄ,›ñ;ïpeé„•sxtBP QÊ2L–`„æqdÚ%‹t1óDîºò8„A$o…<òéìt•½Ñ@®*9,cò2NT¬(xrƒ—¼.şÜ¢38ôoğ¨5‹Ï§”Fâ–x_î–Çg^¶@Ñ.à¥ ÄÒ£Êôş+^^›×§ŸÍfIˆƒÈ,’‰0”?¿º³Xáeú¬ì½ïiuu¬3Hò•mkûŒ"XÜ¡‘Â´9QĞîNz[5š¦Ë[îT'v_ßò‘¿“G½9ò±CHtF«E¼lPÂ’ıaöÅ= —;9»m¯‰¨Ø.¬Ö¦&’‡f‰é*Y¯Kí¬ğ¨[’«a7@'ŞíÀül«¡D°Ø›ÔÅqåÑPM(:@K)aâöÁô@ñ<­qwO¶·h-d‘³x:¡‚Ô”ÅÀ‹·ƒ:…©´!€¶€A¸8oö¹€:GõZ„J!0zSŞÆŠ/é88sÒ{&Õ‚óké·$±Sò¼…æ(h……b?öbR"“c€A+­I—ãoÕ‡!ˆØÁí‰fU[eŒú–,Ât¹nÙÖØ't±ßôLÿ2”AŠ~>h¼K‡Ô¦½ûğå”øğî§Ã‡æ²ArjX¬%PØ#bğÌ!²Jé—”™r·:Ûõ€,á¼],%–2“ìeÜpFŠy›³•S¾=“”óbV&Î9ä\5¼òµ–s²
+³Fü˜ØØx°9($®ÏEƒ:Ñ³„8!*ü°¹&¨&ú+wŸ]œNHÇK´"’GèÔ²‚ğĞNèl@ëëİ–<Âj}hS)|Y©V!lôÑ=£ >3¥F¿s^<‡¾0”ÛUkcî„«4½uDD•i@=¡µu ØæPÌºÀî‘ÄxSêÿ@|Ä¿0Ïö#Íù§.­|é×tË4‰ú!ıN­XËûqê83Y0`DĞëI˜pìÏ‘E¾_ÉPMì¯/$`µg`Sİ±T)ÿ—Âœ†(Pu7r‚Ï tÀ‹WÎ·LFÎ¡ @ıƒ˜+ Õ!…'X ±Ñi¸u½‚÷ÛC(“˜–w¯ÒãŞn?Ì#Š‹Ã×t_*’¼P‰ô‘¼†#Ä­ûqÙFÖ©`Ìül'ã*
+T®f)ùl)†çcR	ÉtË®ÉUôiÃt¨ÈUeLT½éb“~J+‘c71’­g?¨Øo–ø’İ!İ„oq¶¬m<?i?åB•j V~ŒxÓf†Jiê·<J-]oäT«7oÎÏ¢º6Ï8PÓÏ)Âe³z­ÍD¹ê0E	7lµIÁh³—QŒñzÙh¸z@
+P¡Û~İ&‰í¬ÍMš»ËOíõ…'×S0¸Ôî‚id¼¹„õöÓ‚¡zMÖd'~ş@U
+\Ÿ:®€
+Îræ
+&ªh)Âú,ªİçte™åM‡J`’½I˜³ˆáf£ôY„¼ÂíK Úôkl®SãtµÛÑ6ª…Ø”,Ê†\-~ñ™Ñk‰c€Ì‰A.áY—7CÔüZò‚=¡#A˜*[jCIûgm(óìLœã$” §ü~åO&ª©"UgŸv]A\â='æNï£jHf:V èl}8]Œì¯s™C=‰™dÀq<+¼Æñ¶,æeÅ$õS¨Ù–,·r5e¤¤‹(dUOf¸L@ãõ\¤aşªÊÕ¤ÒµRÍàTİ¥Ìoh9¿Q¤¤
+ß¸<‹t³­Êú–zŠğN3Gş¸B;5^ª¥¦0j‹Œ®R•‚
+â{L,8¬Î‚l.Œe~¥AUF ¬…‘–)¨âö„%í@„*¬Mr5­¢©?šH%›vÚ˜9µ÷r½½oGl;ôN¹ßÌÎİ¶_õ'ZREV=G[¢æİˆÌğ¼a0Ñµê‰v#ÊˆÓ8 xÑ<íˆõ8¤VØïóm¹ çvV¿Xm–kÛ±¸^[Ôì¨Í,à¤còIïç¥ÙIÒa[›_|åìz¯ƒAÄ'º$æ\ûs9B±Qü&P´râY¦2şÆõU¼;ñf£İ¼iœ‚5úteó^Ç²'	œVõ.D¿]©_ô[´‹=.
+upP¬5,Šó´°=üEƒÖúñÔ{ù½—9d´ÏfN‡eÃ–ß[œ]Y4ä¼c\Şí–UÆ­ÆiÓfµ=sæÉëqæ×,S±]UµáÍ¡8ß¢7 6»+®mÈäâÙ^E¥VïyÛ\T=m>)ç%éİŞGŒÓ~ù#¹¹³äA-Ó²¼å·X|mIé§p²¿`ûMÉSò_©ä3Á³È
+O*«ë!p@TõvÀjˆÏ‡ˆ¾Ç=UâĞ›ŞÁ¡*~õÿ¾¤­$E’K…hïc¥Éë÷7ÿ¡µéx
+endstream
+endobj
+274 0 obj
+<<
+/Length 3245
+/Filter /FlateDecode
+>>
+stream
+xœí\İnİ¸¾÷Sœ(—ÿÀ»mèEmrWôÂ‘Ï)
+4Š İ×ïü"¥CòÄÉÊ–]oâH¢Hj8ä|ßÌê$áç
+şš¬S”R¹Óüéî¿éGQu2ÿOòM¯z%<ßÏwå)X¡ñŞ<ÿï_óùo?ÿxš?ßIzşyşÏİ?V§~†w~YŞkôáÇUÕ£PóŸ¡u{úp¹ûû;¯¼ŸKpş,\iıìc°!ŞCåéïOZŠ(­·.åêÒã‹&¸ ï¡nDöaô
+´3yì°Z½7l°lË»`Æuíİ¸GØ}–‡C9`¸o½é/Ãç&H¨Ï€T<ü÷Ób[ )ï‚‡„;ÃØ@Aã7Êœ>üåîO`èóàÂ«ÂOVêx’µj’&jå@X:X¯	«Tğ6H7MÚ8|Qø¸.¶ƒ¦¹Íş(®Şu£Œkv^9Í¼÷îñÕ
+şuëLøtf'ó¤Ï·úñËÊxÖõ×»jmTğ¯Ó'¸3	ürçßõwüôşë‡àıO½{Ÿ:óëU3Ğğd…²v÷†7Í`Ã“fÿ/Ş4G%¢voxÓÌ§;'ƒ°q÷/Ş6+%Ì´ã¯u}Š¬ëÏ3- "D&ˆ
+'•U“bS]n²ˆW %Ø/K(bA€°&ıåd0zVmj@‡/HŒ¢"¢và#¯öÎ –p€û<£:Ä(™İå‰¸”ñãPJ,Ëa?.ˆó¦Sg¬‹4W§¢ Ä¼ ÊµÖ…p}OI÷ŒŒåâ½–!Ñb/0° G®f-3r‡+d26¸‡<ÁÂï˜‡U‚.¬e8´dABÁ«gA˜©X„ô¨Y(ĞKC$d QkB…õRç©¸§;C`'#´j‰?ja ,Â>ãô‰
+‹—H!ŠÄ¼ŒP™€m³®œÁ5»‚ÕvâÛ¼®ˆtPÂEøoÚ’i­škäË-—UÃS&¤ãË€sŞæ%«%)«EĞS‘TS,J]	„ïO2áN{ÊLÎ Y“Ecir)äûş1kØıÉAéòÚ~æ´rã|géA²²¦ø¸ó#ZY[ÓKqS¾Î]ÉW?«QFÛHSôß)—Öıê_Ø¯Sû3å“¼GeÈ¼¢]ŠÃš"ZF]/04Õ‚j†m$‹6¬?¯åøQ«•‡Œ~Dä0¬áÂ–¹û\İè!éè·J3w¼RîêKnô€Ô]Ï<Z¦|vcÊ×ëªn­;iëfr;?<ò7„À7"~ÄYë¡<
+T.°ñ`w<ûb+T:4=ËÑ"š }A3ıÀÈõzeiô9Ğƒ¨ÊĞX<æş?¬'\hI'ŒµMsçZfŞšç´òYÁñY~.Hi-\Yã®•PJ8 Ï«×)şbd”ÛÏr&¨ƒwñ”Èz joô%PÑÎDá&ß#3à¨ïºI<ãŒIŸüÀÌ¡FO¬ÂYGhİ€Í$mtplC¯‡4`µ’*.E&"(ˆtñ…Ç¢ù)à	Š“8´i¨¦îH}A6ßz~lHÇóÆD. ³@_@S9ÛR{„ûŸ$ğ¯H3}s›],ú[év‡=Ø«8ÊjÌòr7U|Ò-½kcj˜ ÚÁİ¯ÚÏ;½e?ïĞ¿Êº•~Î‚9Óûzûê6ĞET;»rKĞ` ÑÈ½¾±I2´ÕW$Ã7—Ã¨Õ”xÉÀÔ&6œøX`ÕŒo!ÃlØTH+óäØT`m@Dµ]o‹6xĞmpM“Ÿ—Æ©,–KòŠê+`µ8/8“U¾FÂÁp³¶6OñDØ]cÙqjkD7„ç®ò³Å¼Uút âä–rÇ>4LmG¦—ÑDaE&ëœ‚„‚?¦ßY®S»‰¯Âl¿e×Í;	à@­Uş ì#.<®Ğ¸iÇb:ø7â\QzÊˆ,OÅ²]3Q†”‹’p²"ıÖmÈëˆ¡Ÿ“3Şu¸$Å@ˆßMYØds†(B‚},”;~J÷·"Uhc5PsšwY]š¡•Ó¨ræŸ)®£%ˆš´¸ä`.„Ğ‡#ğ‘¤KHÆìJút§L^293&¼L"kÄ;l	]KëvôcËÍ‰d[ª?ÏÙ¾~ÄÑ¿j^Ò†Fß	/İªxÉdöç%KH0·kƒ¥lÖ£ø¬¬ÄxÓƒÎÇ0ÙF@mwq"ŸÙvgvƒ¨tBtğ’¹A²RƒÔŞv${PKş[‰Tk4§·6  ò§'(ÀPuä õ[Ò¸	…0r  ’É(‚Šš<\´NÂÈÕ€¼¹‘’Ô˜6äÈÏr•W§Å’ËäàU¯J»»e(Ä×}ŠmØü}œ4*»–Hâê­i¹ZS®ñ·€2„Ê¼iPú[Gç&1&Ø|U@.¯ëÜ~XÚ¤±“M9ìå2Çmû%(_ŠósÒìÖŒ/¯¾7µg\~ÑLÒ…AY]ôkPªMÎoH*±ĞqÅ‰H‹ï·I;Høü¤ñÑm,æ@Qõ$;Z|şšË‰)€Y˜’¯f¹bµê>í/Isÿ­Ã(¶3ª'†¶Ìù¤*İ*q`/œFĞ­mñbbÜ¨6^³»mqÀ‘xyXò›Ê%­ÁE3$N¥½­]oÕ’:xY…øÅ9ç:<yQ=GPÃ~”‚•)ÕÔ®}©5È!ŸÕâ3ü¢œ„Å=b0ˆ#Á6,™[Á…•fJnDvx]’I¾3µõ`vÆÊXlFDî%S¿"	Rë€ùCÈozöE¦@Høäæo¤Iñk5ô-N­–¡†}(	‡#eoÁÏ¢M[Éß¤Ÿ…³¿sd”UkqB(aÃ´³×£j÷¶!­ßycKÕîj‘"š½¾²é#pÒ…>‚Wæ ¤]Gmy%uşäBÈ·	üÚ»ÅÀ8…[şg^ÚÑ¢r<÷ë²eòÛçÛn	Vñvè™raÓ¦è’R‰–é\¹X(Ái	- WË„$•?Sín:¦]
+ø„Ó¼,t©Ãx­#lTÅXÁp`ä	;MzùyKvzé¶Rø*'>ÆëØZÁ…ÕŞ*×Í¬³Q¥›RŠ®Â%…ØÖ,‘WC˜·d³ÉÖ&.’C•­8qt«DğëÔãÂcÏœ©·"4WaÛö9Ã‰J»òÁ´ÆáÌ˜´y! ÌÑ¤gÛkÂğmìÏBš™ Uò¯e¨ ñ²jU“/¬FíƒpË åH2GS|¸¤(ß'†¡=Gà„ÛÉğ%Áõ*p^g‘¬3 RB)_N_H£¾šUi¶5âû­×€‡¼ü=p»'¡Po™P·ë¯Zgôw¤3;-Æ½L¾””Ôƒ¼ÏhB®uVB^9“4Qáù»’×U@^%p$¿sbBİ4	0(º)zİ6iÅdwvDÔm@“+Ùù+ë6°IKáì·wÒDÚ	9‡mò@¡vÍN³ƒ¶{ö¾Å1í’9½ÅV¦ÎX¨à«¥¤ˆ‘01¸!é×àk9<mà‡?­eãåX˜I*Åér-
+{½0?ÈÂ&.À1£P<ÛĞMlÛ…¬¼ï™§T9Û	-gJŠ[äö99m»yâB¿Ÿ ¶'@édğ6 JûâA^ŠvKÕKÖmğyHf_ÛT7Áç i÷¬éˆŞ¹WšhŸw°+ïÈâ²÷´3…_»°MŸU^ºeÿø2†;ôTÔ›vÛºˆ„Æ™Rm½òã©OZLõIå]`ƒ§×óQñ@¾b„1«<Ça×{¿¡»&YLÃ~ÒË+ãÉÛ`ÒîöÍŞ˜8u€|X”BÀù,ñäãªúuV‡{¬ ‚zòÑU/˜æ™ÏEŒ!.çwäKŸ÷tl¦ıàÛ<L—\¿?•ËÌl-dèÇîWŒIÈQù enl¿+ Ø3—÷É-›‰bX€ÿXÎ« @Z0o÷¸>,È§\×šĞ™‰Œá®ø|ğ ág:„#_vÁ‚U¢uÙ eò>Å%5œb7
+ ÷|Ë»ŒäÈ–¨G#Ïõr®A:E¢Ú§·>ˆ¯·ç®¼ÊqÏöH®ÿ’jÇ+~ÁJå]ZËåœZ›õì¦"ùt_æñ–Øì/–]–ŠÆÈÕ¹ŠıØdkêç`m²#ır›Äµ›eé°îÛ=”Xo`H¾€›c·É§&{ê¾:C¼®êŸÿOÖ>
+endstream
+endobj
+223 0 obj
+<<
+/Length 3440
+/Filter /FlateDecode
+>>
+stream
+xœí\İ·¾ß§8/‰ş5_$mô¢@ß½°gÏ)
+Ô
+Íë—¤¨Ÿ™‘tÖnfwÖNÖñzf$Q¢$ŠüHJ^ü|'á¯ÙÈiBH{Y>>ü‡$-ğH/¥À?ô2½%'‡ï¾ÿÃõ¿ÿ\®ıé‡ËòéALr:(iİì”7ŠNFJïŒv•¶*À+ÖÅ.Ÿ–?|ÿÓ'yùÇ' ós&ÕèóïªnTŸŞAgş$/Ê\ŞİşöÆ,îæ®Î«GkŞ^¤—7Îzõöò²ğÏG%¬~-¼ñßJü.½qÖy ¤VÂ¹·È7îæ±¸r6¾öğ™Ú²î
+Òƒ"¿¼ûóÃßÁ 2Wg=Ù .ÄÄŸi|?Óï­œŒ€ÿÔ–ÕR5YMß;¾Iæ[áÖ8ğHcvÆç#ƒ”€¿gúì”–
+h÷Êßœƒ×ÈkøNÂ7O|‡
+Ø6<·À¢@.Køjpn
+=x iÀù+Ó`‘¾Ço›*Óå4öˆš4·ÒËæœXa§Y¸zNVË{~>§AKìú[ÜYÚ9ËËì{õ¸²ZFåï»¥Zµ0¬ëòö‰s“÷Í˜`o3IiÎxà8Á÷À<ôúmó*¢•`öÙ—%>ß9üj¢øèÅªG½)Ã$a¹£€L‹²v2û·FÇ·Ï³P‘U’åaÚøœÃ!Âyé €jËAë'mçÖè´˜æø¶!¥ğ“CÉèv’±µKOp	>‚`YâŠLsÿ˜NŠø‚„Û[D—7ÖËÌ‚v-€¨„Ñø÷üMÁKErÕà©Tíh]×q×µN£`îœDÒ˜ÃŸ÷(Úp%°ZNÖÎÚ¸¸ÿªG£3ß
+¿úÅÓù“Yj ×úuÔŒ™·¡Â¨ˆÂ¨4ôKÄS2)rÜñZ/–«h˜~ÇSuXWœ¹ÓáÀ²•EB­	‡Ğó¤ñÁŠ&=!¨ÇÈ´“šÅJd¾Ü9¦é‹ü‘f‚<ºüDÜ]àGÂ©v[–i÷jÊ4¡·1	š*Üm*ŸGü÷Xã(¾ÃªæœŸ,)U¬Å…ag—õÁĞ-¹^Í½1éxÈË¨=.´œ¯0€›'A×mı+?“ã!ápñ¸¢(£¼‰Ã‚…¥a¬ÏRICw á{A"ò}ü¦@;OªªA¨\
+œj`µÀŠT¼iù@9–ü¯+é!“¤_”û•8Â=LÊßÑê·vSiGMp‚¥!mRó1!)¤43q
+–páÜ úìâ‘Õ,Í;­[ü†ó>èËLàYï•Ë“C&‰×+oı&ãØñX+ãpI<v+%ùÒëç½ƒçÙdé°™ïLªéÛ“CIaÜ¤öo½‰oŸéx¢áXï&v­ìêIo¿IŸÑäÔ~BÃ>Ê£uuU³ju¥MÍê1n¨N÷LıäÇí¬k^‡eÍ€	UTD×ıài×uÉ'³àºeA¿æ¦w»š½AâîY3¶zZ×»Ó·ßbüëºîjÕÓû§®^?æÛÓ)¢¼éµ6êsn}V5öYİñ5ËçÅ]oKn´pæ'/€Ñ7à‹ä§c´yıvÏi&81ë´MLQN:ò²ãT´_ğhÊèhjç©š)+j¥6¹§‚Ÿ´deétxH¶ç?´	(®NŞu-µmvl  {òŞÛ¶ùüÿº×Œû†ÖÌAb·ƒ%WıØ(Õ>–¿>$±(´“’ñé_u÷üåË9ÿËyø…ûğëŠ”nò~>–bMH*¨á¥X‘@‚V³:˜bEHhWK±"Í$ÔQclbğÊäuüZ¼ì¨ÈîÖD§„i˜îû¬\	02’õ#‹`ˆ{d—¢É^“Ê±¯W~•¦È0bÂÊãÛâûl^Öé±rbDäç°1rF›1A…¨A®DQ›„/İP%„.zÖGˆı{ûÿ³š`¦¹ö¾ ˆÿ'ùà"Ç:pPÂLa3}eG‹ÁS=^ñÉ®œÒ¹K¼×eŠÈE¤C-lŞ»è$ÜløÊjÎÈ
+Ym’s¡İ‰«y°hmÅH“9bİ1ú-®2uéáâfÖ6ë%ÛÒïGšıG~j×`ğœV ¶ûX"`|û†->9Ûš„s@ß<hU³‘]˜ÄBBı1Z'o¡…ìßÀÜı<‘«åÕ²Â¥E„2ÙmaicôÌïk\î«8ê^å/‰«ôİîI~öÜfRºé8Ø[c•tXÒ$/é™CŠÆCAZÜ¶ñ™màPU«;`hõà%E€éXÜ}àß1,`øôstTÉ­Øë@HõœÖ”œ?ŠlcÕqJqxÈ?AE×ì|(Å'?(ƒû±r¦Ş)Cì~İõ‚(Ü°<¬*ª1_ó½’ã¾y<×ƒhW×F^´µ(³AxİF[—ş:!ŒuıU¯ó­™ƒNTræ®€4ÎG§ºI®Bt«@²/é<]eTâ±*¬”Í“µ†Û*‰œ€&oM~sZ³!„½´R‡ŞAÂaRòøoÈ áYOÎÍ£	oÈ á0O`¥NxCæãƒ
+Ê#ŞØ¿Â>£²¨7a©II$+7©à2Ú”Šal“6q‹a|_„x@YOù%p‹jzq%ëu¡˜Ü£šß_£ÀAJ×2§«›É×±Ç…Aµ ©Ä³FÒåàJCx˜\3ˆ¤¤${4dûVSvƒÊìiE¸µ¶Æ¦İÙÃW­…|KšëZÈç8ß0Uc®üo¼ÊY`+cà´<Ö¶¢$A3˜ƒ;–dMH:=ùù¨Q6FúI	˜À}îà¹}F¶BD|ÊhÑtBYBNjÜù{(¥Ât	¡!›1/ÇY‚½;Oú2ökz,}^wå¬:N
+xÈs“ç}ƒ11`Í9ö™ÕaF…}ù°ÓÊ%°RT²â1ˆıöUlx/•CÌü9ƒÈ”Ldp>†Ú?¡Sf;‚ Š‚ßkôºá•IÓµï(Ç0ge‹uœiût’iÎ2€g70|Ï†½ßê'püÄÌ¥”ÿzùÊÙ`“Àv amÛò˜’%*•v\÷Ò°¥¨Z'¢å™ê·Wm©kè‡$†Ğ<´£Êq‡êEòCaõp0	Ô½?Ü˜,>ìHŒÕïg',ğ*åå3’ÄÊ’;…CÍF×E»jÈÕc	£2(`£+XŠ-»;ÔnÃïÿ!İ]î~]Ë•GËàÔ°7Íğ†a_î´ØÊÇ”^e°Êõó1_mVI<Ô)µ)ÂœuV¹ˆ9ºø½êãŒÇ”Ñ×n–¢M§Se·•_šñ¯ÔVN>i6"y‘'#~›ƒ-åŠ„ƒPM±¦$õÌsÚÉ&ïUÚÉæ‘ÔüÀÕÁiõe9p2BÁŸ²T¶QÖ
+–Ø·º@øâ2¶­ŸÏa6|:Jq‚Â%ÙÃ7:ŠªLä·½Ö¸É†£Z®)’ìàÌ\¿aîØ 13ÑŠ^_3ÕÑü4ûÕ½/e¯Ãs|(<fÎ ÓÀTñ`ñëFù«FZĞRøÃ\ËéÓVœQ[Ñ|ïû2Ò¤%°cqµwt•—ßDŒUA”İ	 9î[büÖ1®2b°!
+ŠÚU¬ºzËøŒ¬âKS›a¼§àu;+åpÔÎ¤æ¸ÊfàVtl*SjáĞm¤‹§ä„¶›‰î:¶—“ö÷¹{ûİ(¡ƒ7š´¥^óK¾U!GÜñlˆèÚS•û­Ä$Ï!oM‰mzçÃí…XDúâòé€DÀqÕÔfNa‹”ˆÛbˆôÆñØÒÛÌ‰,¶h¹Ë½°¨;6²å^coy²âñ‘Î”‚Ínª’ÀÕhş¤ ò~ˆ£	 †šÁgˆpt9dŸµğ9\ìØ"@Vœİ”zİV`Ûşş:­ÀuıU¯™ßcı9¨cî’Xd›ZZœ;Ê¨N$+@ÒƒQ}pèŠ’´“´²¦$Ã$Ì±+@2Àoyğ(kH½°G²	%¸YĞe“úÕå»îâëÚ_áÉ·€.É°»ü/jG«¤èR‰F¬NöæårÒ÷n—öÒ÷ØüñdxÜü:2_f¬UÊ¥¸ÒS¼¦ómp«âúÎµ^ıZï—kİÜkòiùmZùG‘®ê¬!4rÒUo} >oâ?‚üg]oö‚t©İ´Ë¶\Z¼¾n–zŒaº¢®²ÒG·K'Ò%N´Š…ÁèP¶ürÖp7;Æ–Œƒd`¯jÓ¡=õro«$åMÒe’¤\ÑÚ`Fş"…#—4@âøÂ¡3Ën{ÕqFq.0ÍPV0%·d'ƒq3vC•œnÎÂ)«Òúô)¹
+ÔfwmOøÆ.©2cQ.(\«)W¾^IAPjaÆ¾Í?0ø¸Kş­Ÿ;íJa\Ü‘½@öîM|¤àSõÏÿ ‰éÊ„
+endstream
+endobj
+85 0 obj
+<<
+/Length 3329
+/Filter /FlateDecode
+>>
+stream
+xœí]ÛŞ¶¾ß§ø_À
+Ï” ÃIÛ ½(àÚwE/²ÿ!(P(4¯ß9)‘Ô®]íêoÖNìEqÈ!93ßÌ–'¿ßIøc4r'!¤=¿<ü;ü–TA´ÀÿÂ‹X(şG…±ş±ä‡?\ÿóóõ¯?ÿx:}ƒ…”´ntÊ#¥wÆ;J[5A‘›Êj§¯ç=üğóWyúõ+ù˜Uzüãç¬Ù«ÏĞ™?É“§Ï·‡¿½7'İôê¼wWo²%œTÂêTà¼;óV	£¼oB©RéÕ‡Ó;ĞVxí> ¯ŞCÓÚ(úûéóŸşøº;¨¼Œ:ï>ÒÀ>Òßk_±V®Â\zÿ¿ã”4S0Fà,ŒÆênÎÁŸÚ+,Áá"‹ äêìäï{ï‰P¤B°Ìa’5”E¶Ü¼‚'lT»‘~º†ÚÎMĞø¼¾ã©3Ò†>¹B•_õöO	ÍÀ{‹„p'áÏg•ÿVŠA—O@ÎgU[Â;qÙk`Ë ë~á"*€r~t²]§ {òEMX—Úz‚½åqzŠGw+¾t½º^,»—}Y¶si¿[ô|*®«q´{S¶3®øÑş²`zÉ×EÏ»íĞ:Ïf;;O¦Û¬\²ùvl#ïÇöáô5G¶^jßÄÛŞ¼ûÎ:¤VÚƒ¶9ÑOo§·¡­úgÌôsvÉ7¯KSôİS«Š,jöç²Øµå‚Y¼+çàÜşn±Oá;9Î]…—Np?lUüƒÍ:?JàLËÙÁ¬KæÒ—‘ÊÖ€N™H»’ÂIŸƒŞÑh`9±‹ˆõ);Ôš5¶CZK&gé=j2ÓP”ôeèâWH{$Y«AÍó²¨=µ´"şÜĞ~j \ã½Ã¸.µãğ‚Ç‚ÈWÒƒÒLÊ:^VÙ#ŒÕ4Z;G–À•^çà"Õ¶0°Z}³&n4²Zh*­—Ğ<Ms !pŸ»´pæ6F sM^EWš›KK³óá„b±ÓË¼è¶‘pİz¸şÌÁ-¬Í©0çúİD3¼±h§A6e†qƒZ—zÃ¥/´ni_Bç!=lMİü´ièÒY^NÍFÂ(__Ñ$&c¼ı­lW‚{DRM¼3n$­$I.ÓiØÇ>ÔtÍF&ğàYüaØùë$ ™GÄÀví¥(­®#3™AÊy¨&ôXí¿†êêà]×uÔë?šƒwİ^Ô¥Úùi0SUe:É Ë~{È–—4ğâ”Œ€5M*ùg>øŸ>}ûà?ıô—‡O¡3¿­È|y°ÂÃÇ½	/É a°àÔ(ö#\NÀ8U½"ZSw¼“íïägr}'³ ÍË~?F‹Ÿ¥‰ˆ[Škï¹3
+_$È4ïv¥—“ ‚v€z»‰‹ŠwLN ÈğËÜ›{6Ã	V¢7Õ ]…ÏZ] +CÕ]Ğ6¾Yƒ¦İ¹pdK§‚QOOÅ—õÅ«í0îÓ‡G×âğËú±môçk‚È3œ÷Ñjaz•QšmÊù‰ 8õ51sš_&@wÛ a*^„3z°qjsHĞj!âı§ÖgßCç} ½,¶İëCr¯"Ñf3p,ÖÜ…ôD4øz>|Œ”,<°lÈ'Csë]J#G ïüH°(Í;Î9 šõãªÀ¿y‹g_ë>%^únu,9-ÚFèJ‘™í!Şà¥é6ŒâkqcTÛİ$‡"sXXä°iÓ>¹op?ÁeIìM˜Â52[I×ó ³GêõŞGwZ@IBŒÊÄf]«¢»Ã“—ÜYM‡evaqDº]°™î4D]g|šÜªŠzŠx)¢KôÁÄ‹*z1ºÃı<Ç ë7,¾#øl7ôf“Ã&%ä½&ï7O”ºÄ¹”î1£#<jKd4Æt×>]öª“¦	.¡µš£ÔA‚øàbª8‚€oBÅÜ1vtoØñ;ûñ\ìİàÁ%VxtDi=Lr_TWĞ ’02¿/Á™’¹N®‚eÇ{Ã2À‹BÛ]ØÅÏ¡ZĞĞŸQl×e’dµuyÒ¼ã¯î$RÆ³Õd_Ê´•ÔÖÚ®1YbÓR³0ÚBİ,ñ¿Mv6)±‰ğŒ*RF¾UÈÌO.Ğ•ÙÌá4)2!¨Ñ	c¿0	&"ºé Üàå!2(z#à63	d±ÔüLŒoQ0Ñ¡²Ä'c9m8Q#pù†¡®2x¾æ?™“3V"Ÿ»kLg;ZsÄ‹NrÙdLM>'Ä´ ã	R’#&<$ş`]}rÙ|A¦Œ³€&-Û’2õÊ9íN ‡ç°%§ôé,Õ/Q}AHl£4«Æş@+W›™#ÑÌ"Œ_ò‚)[“8üyiæ\F¶–I,À6ÜL³|ÊÅL–` haóN,cÎ›,Îó"xëq^JcJ$(‰ê”"¦ŸË³…	ìBó…¥wóš.>BT”¹Ñ§1ÖÕ¥°ƒG7êïøß9P×ïxÁÔ7êÿå‚ÙI~>À–ÉQ$x§¨ãÉìŠ'@RºÁù½“dNH*1Ø}AsN	šÁ¸}£Ë ©Õ Ì¾®ˆ‚’tƒÔ/bÖcrÆÜ‰oÀRhfİÓA¶ûèÔÂqÁ°C[Óúà, LR,£%Xõ¨aÚ<ş$§×õX“}s,3«¸àÎÚÌK©ŞgN†%«Ú=İ$O	·=:¸’ı)ØÍN	ãü‘äOv˜“k‚ãØ³›|#º*ÀÈ–§øÌ-æ¿g± ÆÅÂw&Össn"¢W¹İ(5Îfÿ-6÷ã^5]1R W«Pç~KÇı–AâÂy‚³Á^Cgîq?sé‹6iz
+ÁYfv/–²òç3$§ìDÔˆNŠx„ğ1À/ô-‰ö¹Ğí˜f~PøÿôVGqP,“<6ù¾ğ=È°ŒQøÄ²ùh'M	1ÖÏ%Ë»Ì?Ô¥ÙaÔ‡·‰ï‰¼…Ò^‰,Ci¼ÂS(mğĞÁ¾¡´ŒÆ¶ü`åÎ±´™´r0âEƒièŸuBàÉìû²›Ù#©‰ŠÒ¤p‘-è¥#^|Z¾!NAfogWZ“5M“_óêeãgé|²Ê#‰åÅ …şgÃË†SxY‹ÎæÍì¨–ê±ˆÏ­²Ë‚?œËƒéÍ'*£RÃ;D°©™çÅŒ¦g­ğòjµò@„íç³Ç99³]gvä‡TJ'íµ{ë¾×E(4# Hñ|Pt¨İ¡eœµ]3$yuj$Óvƒ&Ş1ÒÊ
+çn¿køËÌÃ£ÈœƒQĞî˜#:ÏO‚=¦ÈÏFá˜vì¦ ÀIÈVxsïÇpl ¼‹àf-R¾ˆDÇ´ì4mJî“+›Ñ+<t5ÖØD¡ç$ô[ÀÃê)it…Eæš9â—‚|JÄ´ÅEÖBrÌs*Ã¬Qs×Fvßp‚â£z<œEğ6ŞÀÆwƒ°ÂØxÀrg°‘Ñ`|»uw|“h ¾Íäö
+îÔMè	ô'˜ĞĞÚÁOR8ˆsJÃ3™Ûå´^_ºÅ0%ËêK9õáêL¹*Mæä˜¾ÄÛjëzá°åÏw€©sû• Ë™ôW²I0{ÆÇ£!éÉ± ;5nÌÌÆÛ"&Ü³Ñ¦Õ»=ƒ4sëÓhwšÎb|eH«.çYmQ'šïƒiÖ®±:8Ö¬hÉ>æÓOæÙgu^¥ñFÅ?`/ÁzñÈü¸4~zu—`·×ê| ƒİèt>§Y?&ÃÒyQŸ]+ÒéL
+³t;’÷\P¹­î[êIææî×_-¦nÕ[—ôHtë–Ç”à¹[ĞÖ@Gl\H,"8>ºQ*˜¿¯é—µù¿<¤DI èÜª½,fB—eÍ	ÜĞÀµã^‰µt%Ô`#o h?PTçú(z(r t²Ó·óSõdh«²gµÆW4NB·¾&Kó}ÓÔù&^nÅşŒäBiÖ¿õzoÔ¢ {¿Ú*-$…wŸò¡åûÊš½ìÙXÆá­mfã:¶€ôH4%œ‡×DîÇšI|y°jzßP]NºA¨ıÍ^/¾X˜|ï3¥èMí¾ºÏ¹8dB¾É,§7úSfU<Ò{‹G–¸µ¼2`a›Ä4Š¥yÑ0Ïä L77µ,mÜ>µ—m–rC®tÉÊ«ŞVÚğ¤Â>Œ?ºöºc›áÍ‘úÒÔüò¬°¼ãSÆzç,ç‚^j…:rçk´rHÒâe³œ½‰Jôb>5ßÛs!Çf:¼†ÿ¢CtŸfÿÄÀú0e/Øx³T= eØ¦]:Õ¢ì–ëÔáıüû¿èÉäÇ
+endstream
+endobj
+28 0 obj
+<<
+/Length 3148
+/Filter /FlateDecode
+>>
+stream
+xœí\Kä¶¾Ï¯è?`šï°˜ƒÄ@œİ[ƒ·Gğˆÿ~ªŠ¤HJ"53‰fº7í±=#‰d‘Åë«—Ä‰ÃÏwşçµ`>p.Ìéüåá_éGPqRÿMòM¿è^¾ÿIfñŞ÷˜şıëyúëO?œÎ_8=ÿzşçÃ÷?}§|…>?Ïı6èÿğ©³zô	FşPÖ§O—‡¿}ĞâçõÁ§íÅ>=BëVÀ…±úñ$çŞ[uú y}…ÏrÚ©a#õ[ÀSiÍ`-Oßiœáh ‹µ;±@Bl°çá²9Løb-~°ô™‰¹aĞÔÆ6V ñA;Óñ
+¶oĞ;à„q„á´ƒş6*`ÈŞå?}úóÃ?Œf)4"0ØM.C”ùŸ	ÆÿKÿvro/NJö3í?ì½I;ç<tq..iùô›D_rX°p$ùéÜş<;ØYi`€ÈsøKw-G¾é`mî„­Ë°8X+ò\ˆÓÃHÕØ0yÛ¡-_
+sµØ`{s¸eÆÊ²3Õyd˜^ßÕ*Ş}£İ‚Å›.¸<bÃ|Náé€±ŸÓ\2î,ÜØ‰„^å7ÖZ¸:or@O™8°X« …MNèÃ´ŞIn¼—Ê P3Úf0Â|Şœ¼‚æ×>u%6§î˜óúÊ§n^Èõƒ^<?Æóh_RÅ™Ïğâ÷‡,áBÀøò ¹bF¦ËßêüøñõÌÿøã_>¦iüŞÒ ’‚3ü±$kH~‡ƒ(ÆŸ 3–Iÿˆ°ƒ×)æ>aAPÿü\T)EµÀİOÜ‹P{Õhbë0NèZÑop*¬Yô¶ØWÅ5ù¨;aá“uIKÔà“şEå3dö†6ø—5¸¡‘&„À1ä›a!ˆŒ¹ëocÛ/œ©*0Ÿ•u™¨¥*T;ˆË 8kvá½àVD§J± Tğ&BÇê¸†< Ş¤¶¾ çÏMÂİPbKnô¨#ZCĞÏpú…b7bHp çA.–E¿Í.‹VVÊ m 	aBC·§‰ïD”¹!‰ñ»pÙaHs‚Œv R™^`U\vÅeÿËD¸ïòÙCkË€[ºù(™djÜEDÀäŸp›*D]ò”Ïj:‹\('—“Ë“ ñ”Î’K|EÈä	İÓ]{PGÎ^;h»Cå;T~%TÎ@¤ö¬ãcqkCHÉ ã±$kH ª>Ê ØD€B;fIîöÀ²‰‡ì”´²M™JÓ|Gè§gü¼B†VõQ4l€†-¼|gPIª w>àBË®¬ºâMKÑ<#OÄ×{»g@Ñ^KQYæ•:¹(«KQ½TĞ¢×tq5H.¦î—ãìL¶š‘ğàÜ\éá°«É×Dì`3[æ]VÃ”«§1·Z¦¦*4†=_ÏõVH‡kn¦]¥ê‹ÖbëV|ü6¶®aÀz#_×Ó­Şõz®7yØòH¯İöDŸ ;Æ,ÁnÉ2Ènğâ…0»]rªÕHs âñdĞà­Û›ây˜ ç´§©zFæ0ö#˜¾ŞğÂM5#gC–ÖĞLë¹p&àpÄ™µL)ØD6˜"/Gô6éyŸÁ:±¹ow)gAØ¯İ ¸›]w³ë•fWğd(0Â¤8Öjh IÇB°“¬h É ¼ôGÙ–›ƒTşV­.CL8OQ-‘ºÒ*²NWn±dl%Wú–iå$àJ$·åÔûšV¦D(H#Œ´Œ¥áD"í]]ºojçu¿zûJğ|·eVÿ9AhĞ|å¯´xÉû5hGÿRE„AÃ‘Lm¹oíÏäŞ:ÑgÈÀ®àò®ŞäİG"²RŠ¸¤3náV¢¿`jµC÷w]»9$Gyk\Ö¿ÄKÉ41W#3yWcT¯}C¨IXÌ@Pt[!®Û>pkØÕš;»c±çc±l‰%çpğì¶ùƒ±XCH:ÇÌÁX¬¡~~0Sß‹)¡˜(æıía1•Õ¥j<ñŒÖvÜOAÿ•Øa ù`— ®ÚwvtÇ¤MµZq\¬#Wê
+‰Ê¤œR<•t™LnC:MÍ‘Ø-GÎœø¹Në\æ"ç„‘¬û8©RC°mj²&3XÉé”İìé®>PBHIÂYø¿à1•œ6'ÇÆèKt¼ä]#NÌ©ÊÖgo¢ì®­J1EÇ@9[ò~5\RF¯Œ.»e?ºA!ÚÆ€S££ù]sp›\¥sÉ±™å?nÏJP{É([ÇUŒë«WğwXu‡U¯MÂM‡°–u,Èih I§™;ÉÕ$ gö0ì¸‰4×·Šª´Ì	xÉ‰u¿à Í€K­ÀÄÏÈÊõsü ¶´
+W¶L
+MÒ¹”õ’91Bâë+ÊeÊªk¡™¾~¯H`ğ<ã¦”E'" ¢B±~§uQYÚªÙSÜNBtıÁSÆé°Å…ÜX œg„,Ù™Æ÷&
+†Húì1?V ıO8²—ÀZ‚—[ÀÕ3}5¾¯Z…ÕÃ«åWi½ÕeGúréä E3 NûxvÉ\nÖñU¹hö¸ö—˜ÊÃ®=ÆıÑ6­Ÿñ¤1Èº×"•×…a»˜FLïQS@k+÷Ø3"7šìÏ
+ÀüTS‘Œ¶d¶¶é ‹ÓßóŠïèÿ›EÿIÂ32–ø>›WÜĞ ’
+Œ{0ü¯i I<0ošW¬ƒ¹YüŸ€ÛÃCS˜_ªB0åJbEIr0}Nn(2J°L®«Æ›Pç¶DŠRÚïXäû*¬….\7uu€Y’ÙíèCƒQ¦a_¬¼d(Ôm7ØÀA¯yÇ)×	K¨ğf¯C„ãİá>Uâö»Âlİ‘ `o¡•—úBÜÑ@‰ä9[P¦ä¾ªØê9fMõîVŸ¤ˆïêìn6uf,ß*¯wS;¶uJœÉ¬æ© 4C6œ=Ÿ¢˜ãæØ¤óÉ	ÇúÕæt£ôÌ²X—Æè·O¦(P‚€^ÙœÚ™‚;Ş©`=êVïhõ[E«YÂó§”cJüõ†šÔ†‰ƒÓH2PÑüQhµf·ñìUTö,Çràæpl‚˜«#²E§*,åÆSú&’qMúá†FÉJ'æmVK´:9DM»
+Hk»%Ç:¡üö®Ó›Øÿ(v«ôyÉêäÜY†æc^@d}Ìó¤‘*‘ÂÔÆ	ÔGT­r$¹÷‘£í’’âá£„lÌ_ˆŠRĞ£7 e‡Á6H¿µVD`Ót 9é˜Rlšï¼ËúMC^™Š²Ê¡…r…GÎ‚3&¤¯T—ô‰Ò–²FÊ°¢!²¶zú-×“ëO'
+GézYÎ®ßU?5DÛ©Oƒgn°iÙrÀIÓï¹Ø3`ÖëzWÈ¸.…óorĞ3,Ç©®ôj6ÏÒÖ«hõÊ|ßRLWğò9ë	­£l=em–œ&xŒ:Kå“~Ê'U R™M¡¶‚í1Ím|áé}2£Ã¼ªË#•î¢ÉYyß«P"ğÅÊ£hs$$´C©WÆ¢dd‘¢ªJQ¡•Xê”¾ù£»CS_{€h²ñE½›Ÿ„j¡#a™‚ñ*–Y]Ú™›?ÄÓöòå’<Zô¢ÁÈMíå¸í,ô¹—);©ƒoHÀ uŠ®&P}2vÈ¬X%1Åpóh~è©äk¼	Mlog³DùØ­Æárx˜3%¼…£*k|¹às²„õK*£ç~L¹şv)—XŠ3œ)¥2 j¼*Ï…}·ùl©§#r‘™»Ëá†lŒEÀ;Ë®$qH>7nC³åŒ~…\gçÀ{Ú°m×iÙKbéYè¦­.5ïYS>7­µ¶€©Uî×ucs¨¼R#¶”ûO©ˆ½É}˜íûÅG
+ñEŒ©RÎ×Ø$V¿ÏÕ†Um|Õ$sîE¥ñ3î¯İ£yËÎXùÿãŒ½¢©ß°Àl¿¨ß¤Àtø¾Ô{ŸİmÑ¯Äù;Šş?öÓ5/T›36¯¦$³æ`Š…Ìèƒ#k@R`ŒäàÂÈš”‚Iqladşù¢ı+}
+endstream
+endobj
+325 0 obj
+<<
+/Length 3081
+/Filter /FlateDecode
+>>
+stream
+xœí\K·¾ï¯˜?`šï ìÁvb ‡ trĞfŒ ‘@@ô÷SU|4ÙMr´z·W^¯WRóUd±X¬úX¤8qøùAÀ^æçÂœÎïş›~'Åñÿ”‘Tµ‚Ù˜SùÉi&1íÇ_.ÿû÷ùò_:?İqÊÿtşãîÇ_?‰ÓïŸ Îo¥^§?½«Ú¬²ŞAËêúôîz÷Ï7V9cÏN;ã¤5NIn…½X+'ï±—o Å:m¥
+É¡ÆÅká—Òœ‚š˜wµşüpŠ•.ğë HJ€ZXÊñª]í«"eø÷5æCK©Ò	C£Š9ë1ÛbWí=²ó¡±¤9½‘Xã_§w»ûË;`M¼œI'OÄÿßNgî·©>ÄÔ'âÅ-E#MìwÀœøNEÎÀ‚QÀŸğSñ”æRÏ0ÈQÈ‡r4«À û†*;b²§Fò¬@]W2#ïi>œ‚YB¾^º|ÕÒ1a}äëŠWLx®‚HI§ÔaZâÆ{©ŒdC[löš‡nç—ïº’Jw;/3Çg|5VŒoWsY~¾Ë¢%4¬ÄwZ	ÆmüúO=âŸß~ıˆßşü÷»·©Ÿ@P[f¥ß—bMHÎŒÜ‰büYí=š3ğ¿õş#EWÿ=¿hÉ,Z°,`BåO¯Ú³îOÒ—T™‡,(¿¨æªµ`Jí˜
+E4»Ló’	ä™[3MÈ§Ü4t õ·H«­)Û æĞV [¶sQ…[nÖÄ}ÓÁşI¥rÆñv>owñ¼A`4TŞ$€´ Èsø
+Ğ¦NÓB†ƒ“ƒı¦lã°Í÷oÉ”·õÄ4ÒêŸíÙJ‚>k&œ×^ÃöÈ›OúÅº¹ø‘ÈMjä¹½ÎÊÄM{ÚJ™/hîqœ–$!áæ <Na’ 4Ï.LË_ç½Ô*Ëö…ì™Kì2×ÕİèŠü4Ö¥:e¸Ù2švŒ4Évm(²†IÏ9*ÄíN™z›ªUL}*IŞòTr­óå¨’¦+û]úÄä5ÿ3Ö”!ñQ-/æ£å‘‹Q9Ç%úh)‹º‚L×bø‹høgsµµL‹¯1ŸkÒ1ƒ)RLÛ›Å™ß¦ÏPÓ…¯“­ïI&]\‚ÄÒ³äÅ®'gìRY÷†<‡ªhqèôff³Sºbe™4m$½ßw'y‚$
+»pfp s$Yı9àài™î€q$;6âÓzÆyÓÈ¸¤‡ŠÏ‹ênaÆ9™öŞì_}á^‹~6²ıŒÅ'ş–t 7¬îqkñc;&l#›¥'Ğ0óx2ó’Â@–¡‰‘ÕØZEİ£;&)*;°ô@³àozRˆ×lWŸŸo0Ñ8|’elˆ»ø RÃå-6è<õÄ–nLÒG–ãt‹6”êÎ4?ª§q>®Lƒ{:ZÏdè)Z’“·;V²/Æ•+C½ÑjÚ¸Æ•’’÷”S1§üFndİå]T~
+ø[z;í+G*šøs
+¸ÉÁóö;ê9­ÿe:ë7xG´|µä¸TÔô‘¹À$IîR€-; íÂ“Å4ª¯ŠÁ(7¡ØŞûäú‘Õ0ì˜ä±VÉ‡Ã•q^¬üEÆÍÓ*ò8<œïÅúF&j2/tm÷3"Õ“ÊG5›9³@I2œÈ¾q‘3s¶]È<´°€Ëü=·ßÀkYğ÷i™@•Æ‰P~më´M.@«Î	ä6dzF_cO¨íÒ¨ç8ù)7¬şkj;Ïbh‚z¦äqİ€kœâÿÚ¯j@š‡bÊ—OiªÍÅe³ş\|Šk<w©0˜kÓ¬pŸõ¢Y;d«££è²ètd1^#šõ-ÚCØÿ™/‚àŒå|ŒÄ¸’_@¢Ş35¹eA'ñ:Áø]œ‘˜ïùŒä¸]Ñ2cÿD2³“v Ãó½:Òáó]VŒéôKØlÕ¾n )-Ó;Ÿ*64€$˜2ì<Êš’ÔL„).$€ Ì™ÇXÓ ’F1kòèT)õòP!—ğ §5øp¶AÑÆ‹c\ŞÊxªxìıó‰}‚¥Tû«E¦d~ÜŸĞû@«ºNE.;’	œ|Bqâhoc¤*@…ÛF79ò§‚ÒÓSex d¦Ghåt  $†'õí³V/ÒyPùºíÒMê¦#»aşöÜ£FàÇ73)šh‡ùj‰ãšÃnâ·ám©6ùÒ£êò¡:l_şnğMG÷'
+ñKE:h&Ö•³Ü•
+ŞÄWŸˆ¥ÎòºÙ<Œ_¨éqYE<LÇwšIŠ'%ŞC¿dWMÊ®‘ia›I¾!0L‡I·;„‹¸H°¿‰ë0Óiï6a+_utLÈÆÃ0áç!!ëËçàÕá†µ´ˆüÔ®&¥qÏÈ›ÒmöMGT§ÔT†k¯Ó’ºhÍxd¢ñ<pÚxOÑMËwrT5øqÕŠ¬[4êd4ckâ+”ë`²µ.$H¢ÂH†OE–1.aş]…6¤m×S–'¼RĞÑ:#iZÅ&G#~,É¢B[,{õ¢•¹ ‡ótpßşEƒ*¯@Ü«Ì<VfÜŸHfvÒ¿ßÄ%½˜£Ğ¹a^í†)V4€¤LïKp¡€äÀ¾;°¦$a÷{±¢4s»]'È*HÒ3«÷eÿƒÑ#èéèh\	W[l¡%vºÈ#@×İ
+Læ¸œöŒ_{æ ®éHã ³EÌcYy—u¬Å%Y“íauHÑˆ’¥@†ÆJ5Õ‘´‰&i^¬Gh0<…Ä8º\gYz6Hnäb†}4(fDsÃäÙB™$!bWŠêJ¾x#·Û:ÅL½¤áx›±Ä%§ë‹1¸›zAş!¬ıË
+ª!—Æ1óšBQpZÎ#F{ËLoë;…¬1.¸Š<e%ümùÒ“.üun[v„íËB1Râ”‡å–É®„ÄùIIxÕ¨ÎÊã›4¾‰Ã6™TB‚ŸÏÂ¡I@ô°^ÔŒšMz¢ÈãTH~æ»KšGY¼‹ª–tÔÀyã³kë—jñ<…Â±K	=LoJHÇ»aiN1dI#¤õ5‚ê„„btc$¡Ó"i™ë0ÒÌÎã‚(¸V×w™ÀÈG÷˜^´«ú
+o¼ÊÌkœÑK`üË–™WHì¹cÓh+-abš…ñ¢††Pq˜ë#¨HP3½3ZÔĞ@’©İĞ¢L²¢$­bAì<Êš’tÌóGYÓ ’d9ì,=5 é“vçQÖ4€d€%ºÛéâiÆÙvt°Q«Œ)âe¬tÖŒÁEáæÂ]‡V¦€vù´Q*GhÉx…zƒ&b,e¡»¨å‡úhú¢­*—óëî*¥k2›°¶ìIh®’ağ_Îä¡¡;+QtN Âº¹€Z2Úu®®—Õ¡‹ˆ¬`ÈiĞeb³E¶™ê_X½'z×ŸÒ‹kgùèg¸crIñî¦#`İ˜«æõ†²Œ.w©mŞƒë†hÄÅ¦êg)„a´ ½À£ÜæòEózÄàîUó6 ãùêÕê–á`ÅhÖlâHÜT‘õ.Ÿ&vG¬²¬šàŞ¯VYÕì?Ğ-äuƒík]¯e”ŞÇ°åuB¿j9ß#Í(vêSŠòs7p;XbûŞ¼¸«n:šÇ½Õwó¬+2Ïø.üëWïUf^q¼—†ÉD½Xœ\¾¿+_Ó@'×2½óµ¶Šº¸œ5µ/Åš’Ôû;ò5w’‡İÎ@R(æä“*Aé‘·|xì º6ècpK¾(@gµÅÁKrÆõ­g¦œRôÚôyá„m(O3Úü´HŠ\Ú”v7_'!gtv¥pıˆ÷y`ÿ¿iüÌ\òÁ“şõàÎ‹†5é]3GÏ˜Ôy ò‹ıbF ^EÏ°{é³yÔæqPÕ–Ñßm¬z‡ğR|™×ÒõÏ"34ƒ9 mí[Íît&ôx¡şù?Ö4R
+endstream
+endobj
+142 0 obj
+<<
+/Length 3473
+/Filter /FlateDecode
+>>
+stream
+xœíËÜ¸ñŞ_1?°\¾)†»IÈ!€³¾9Äšî @&@` ûû©)‘j’=v¢¶Ú¶Ç·$ŠE‹õ.¶z’ğóƒ‚_“UbŠR*÷4¿œş~5POFâßô ßTøİËwàŸïıø»óş1ŸÿüËOOóÇ“¤çç~üå£zúûGxçİò^şOï‹>‹Gï¡ç? dûôşrúËŞÂó7~òÎŸµô
+şé·Oîç£Ÿ½…;ş-şWx'lç}°ŞŸŸ¹¸ğœ}(^q^ğ™Ã®t®¸«³7–ºƒ· »‹–ğ{¢–©S„xn½¨g|-Xú]lñÌnà5å¡	ôò×§÷<ış= +#Ä›÷ï*Lâo=İÿ8k˜˜“š¼TOopÈÅ%ÌÂz‹Ø&˜QKÆÜ°¯ˆ} v†­‚h—„ÿ€2‡xğx
+i)‘2ârşÈğ]Kƒ^W–a|çX;{ûšA©DzôÿÿŠ^êÉùÀ”ºŒÉtŒB˜¿¼KÍQ(Ør:®]°'ìõ]køî}ˆ¶ãÅ#f40CX´èss:Ş
+3ùÖTŒß}GO*>ê¼Ğş¨+~ÚÚÍBMÒD­àUë ¡°JØjÒM“6±)|¬›ıq–pcnJŞŞ>2QÍkn2\"U~<óÖ$ÚD¡Š8Á’½5Pş„/,€2Ã÷°M4`8:şŒÈÌÛY4ÀşB:ğ!ÂÂ ]9Ä"|†­T<©%WBY¦>/y§!zi,I.,ÛHîW i=iG[u^>“ğâ>µö.µ+×k£Òø§È¡†ĞŸaª!	û3İô¡l¨…>Ò­ÁïÖ•
+,Ğ“ÄiEŸSÙ‰4\yí2ò† ˆD¸¼ô$×]õ¦ÍeVêÃ2Å†¸`'K8&–ØËœÛLS¡F“)ép¼nÙëšƒ7Ğ\|èF7‡D˜ìÁ‡îëL0Ê´Ùğ {ğÑ2ÍìÄ$Aı)l<”´¤K&I‘eP6É}ø˜©I!¯òMB(w€ÇÎğâ¢²Ï¤_¤Ztˆ=&ÁŸ»mcÉ¡]SğdïıvÊ\[YĞ¸^àtXútùÏÃ?ÿúùÄñëÏ:ıš†ñ[@j+¤Òû‚,a È ¢´;ƒ,` H£èû‚,a H„ñ;Ï²„ ²Ûk–5»IÜS9EUÔ°Cg«¨–
+jéJÊ;ÚŞÙDF˜ô
+îúbc—>§Ê‘Å–Ú&dgL«Öv_í²ªL–Â
+˜Õ‰j
+»öún°|÷–óaYLÍ‚ÙöBLÍğtµÙ©³8yä¦—°Zp¼š…‚‹vÁ^—<yö2êé3tõIÃÕÄr!ëLÁå%'5Qí›¿õİ)ŞÓ(N¶Î%0²\áJÊTYz—ü‚ÎÂ°bú/ü†ÈÓF}Ém’bh¯‘™5SÿcÿŒVyxæ5Ç¯ÙÔØ0°°*C™®’4Óqûê%„—“‘NÄi_y]Á@QLa?yİğù©è„G/©0/©ÃÄ\º?+_©Õ(ˆ’ø€¼®Ô©¦ M|i£{øº«“ÔÆÊ©y+@—£m†ppF±Ëô¡è­WÉĞ¡øRíÚ„~I@/‘  å
+“‹„8Çú”æ˜Ñ?›• }«ôl¡­³A×ñÛáiıt¯¨RGÇ4b2aÑĞs!Ãı¤ˆdË“t¤ÆY˜–”$µq)—ºç¢c"Ğµ$Ëq+[Iù,œÏ‹SU‹·ì¢‡)ÖÚ*Oõ%°*e(şUL¯»0ZLm»öÕKI.Ô: #1&Í”[¡q°Â#««¨Q¡áÁkÓRØk”cÃ «İQ¨À—¼[’§×Ñúå ×‚üäĞ,P Ôó¹«NàÏ
+kZË±FÊ¾ Ñf	-*¡*Şğ`­}tÕì‘µJeÔ7ä<ĞĞšfÚ¶È×I3;1BPG]AI3ÈZ”!K±£©J© ªĞ÷(úY9@z„†Ã` £‘S3’×äLJôœGE‚¨çGÑ ø›ÉÙcÅ¦OâîÉò±Axµ¯­U‚x9y½îkM–  `°,û,@¼œ‚°R»,A¼œ&/œÙw†%ˆ—S„.ô}¼Û÷õ«vŒ·Å]ínÃ*¼íı”·‰6¶­#HwÌXa‘d'_RŠ‡.¹Ø)£Ìø€ÿ§ä¿vÙN¤Ä3ªª…Óf¶NIQ&Z®ø8„›õ¼¤UöScLñà¢î»qT£ïğdÂÊÎÀ ”İWB• ^NN‹ v…W@ p^x¹×üš¾;cÜ£99³ÿ¨`øÌ²·:]éúÌ¶CwƒNN6ÛpJqì³Ô±(ÜŸÆŞPPJ¿°ô²¢ìÏYâ‡K@•%Šé‚É‘©2†R”6¬)#KTxã©ÓYæéçMh99ßj—[ÑkjjNDéçnÛ)PHà ¾Î #Ô"Z©@Ë"\¯ĞV\á³âr®ºê
+°|g²ÆFö”—~ªÚªj fø¦À¬¯Î£~Â AÕœ‰Bo ¶¼B%#v‡ãªá„«‰t¯âàY"`£ê5Øa?öµˆ¬[’òµ¢NÏÃULs4 J±­i[uéÎ{ùÊºBÔ`õ†ëu½Iºû<@Ï¥ßò„=P÷È2ŠèI		6/HFÊzÉ&Z
+Fx–r£öE$~¸Ä¯¶ÚnuÁ•b.¥ı„o§
+¬A‹”,4lC#Îeä$i{kDi>qØã}S®^$1ÔoK¥oƒç{¶ * ²¾SvÓgÑğ!>ç²öÌ”kÙÖ«W—4-, Š‡ÏyyhÛû[ÊQ?ĞĞšf:	5B3™5ñ¯Œ³¡9‰¸fÍíÜNçX„.…sÜ•ŒÚ%»Á¡î¶İ¤õ[R}*Z¸Û!ïv_•Mt»¶| N{Ğfñ]t¡%ªû\áÁ(­»-’>Ò³Ô¥¡ÌÔ”¿u´k]9:ã…™Ôrc¯ MååèÆqo°( Ö	 ÷İÁÖP lÁ˜İÁÖP°jÇ	#wŸîPÙİŠL¾hLl©¶Ò&fö'&çU²‹Ëåx†nŠ¯s±=å?ö[jRMn*ù"ÇŞ‡0|)IÑş¼ãV©¬"e8­‡óæÈ]‘¼G€ú 2Óc±»ª4‚èÍAAR±ö X;‚Å
+æ3÷C„İz@ 	!ª4ÀVÎ–¾ã*M­­~ÕN?ºÈ„µ*Fï],A€l’¹¯@,@ 0”ÀXî`´  b,ÎhÉ5Hr‚Õÿs(¦œh¾àôé”	b1t†n›ç\«¶éTÆ1E§T‰÷-rŠ÷ÅÁeTÙX%é×µç+öªdr¹¦Ú\–Ò×Õ¢§lOzWôÙ+)ÜOÜÙ–%¤¿Vºz/_6j”ˆGRB}®ÑoÄe	İÒü%—ñsêfröSá1¦D*ç5™ÂXC“rü—XR~–*êQ©´ Sê„6ÍÔÉC$"…Ú'~©óiç®	i[Ïùê!\¡+RML¦Qe´†üÓ9@¶X^/RAÙ¾¾×-0íÄÕC¸ÒU*—Æã°nRö,ÈLÓG÷Fdí{Íı[]¢&óRlM»[ûâà¿W¡5·åÂ^©o³ÍSîVbOz˜BüEÑXÑ®buÅÏ\Ô«7+³½zLEY¸²o²µogfæãìÉŠI]÷~l³Á~;fC¶£Y¯ÎÄ•ë°§	Æ¼¯o«‚…Ñ°ÅıÎÉ%9	åöó¤µ4ß8	+¥Ôi>œWõ­jL¥xf]2ls5­…­Ê~XóÆõ°v_{Á“~A5¢äæ’’â•¤İè®ªÒ)"Wõ6+D.?Iştf)ª¡Soªüÿt´M·ÛªCœO9<½¤´jáÉÊ%¦Õ1–:ç|½æÏ¬İ:l­–(ª(fe.BØZ+m	˜³:¬Õ°=H¦¥Š64Ft[<hš±±±-2/éìçë¤¹˜úÊaH¿®ß^UWªŸYNpMé7›Åî/Âqë®=Ué$ğ{ŒD&º×™Æ×‡
+•ªì¸ŠÙs<ºâôĞë÷òîï4ó¥ò¤¼›Õ‹Ähí"¨X’tU²6êŸ˜f¨Ù~Q^¸+œ+ Òh0™ö…X€@€^È½käJ2Š¸s•s@:Ø|»UÊ%%…ÙÍÄÿ¢Ş»êtÈBÿYÃ7×gq`¡8´Ê%Øì[ŞF
+èËÆß|ãéä¦°Q@7NÙ¬,ûPâDrúº»£œNB†Ã–\ç< "°º)eá­W¤ŠÏt¥&U4}wJ¯=sJ··ÅÂôÀß1@–ŸTt•¿Ñ}59tŸßüæ›Á zß{3ĞòEÃa9@]Ì¥ ôM'ÃÚ£íüY‰:œ—°1W¥»#¸:4xl¬ Gn'Hıyh½ó«¶UjBZØBm#ÒÊçàÀK;û¹K/'ô9)h¯¢ÿX¤y³cÚQıó_UÁpê
+endstream
+endobj
+388 0 obj
+<<
+/Length 3190
+/Filter /FlateDecode
+>>
+stream
+xœí]Û#·}×WèLóR¼‹}°“ÈC g÷-ÈÃèfÈˆ?UE²›-±)Í®5İ³#Ë³3İd“M²Y§ªH©­ÄÏ
+ÿ	 DˆR*»İ?oş›?Š3¨­‘ôN(7>j¤é~¹+·`Ğ½ÿtüß¿öÇ¿ÿòÓvÿe#9ıËş?›ù¢¶¿}Ág~k¼ÃOŸ«2«¤ÏXò_°vØ~>mşñÁgr‡˜ëƒÛ;ë7·Z
+kƒ·ı åäÒEwô€ùÔ„^§ßNáİèNîØ{ÚûTQÄÌ¡›Ñá¥ÅœÖk|Ç«;C9<x¿÷İœÊtsœèí¨æ^.ğÔ
+Ü o]7³Ãæj¸¥~òX4õ4ö6Q÷_7r;êzêöŞàø~Ë¨zêM|J’ÿÜ~şëæÏŸQ”Š°X…òZê¸e‘ıu"œE`§wmHw_IdÁ´ûåˆ?ŞY-Ó¨áoî\/Y"LNÁGpğÿ5øaAw¯öXcD M£otTÂ—:æ¬±Bi¢VßA{°øŒ ¥<&mÚXêQáâ4ÛúÇîš/o0»^ù«¬«ùòÊ
+¬våooo¶ãß²Ì(£ß‘ÌÜiRÕÇkï1òÁ	]4—ß7ebT Üö/­ Òå¿ëüüéë;ÿÓÏÛ|Ê¯ñû´çQRÄèîZå¤ªD÷må¤ª2ïÇ*°BÂÀk¬ë *ƒĞp§ÓçL)|¤ÿÎUq•…|}³GH¨•” ÀOLŠhùƒ”TŒö|AºÅßµC¥Sê)§Íè:J
+{…ıf×yœc©ç.XŒÒ8|¯6{Á ±£.wdı]H–`¸±õ©ü	¹kH9¤Şğ&Ûàß{”KìŸ’Ê7ÒSÎ&}Çüäå¨Éc]ŠDdJ9‚‘wå7"í}òD¢*é-øÙÄ¬µ1p°ëõdàêÑ¯¨©—v¨3­,”Øô=÷´Íı†‹ã-Z½qA“ïŠ^?jòÃ`aêH¬ˆ'&«Pøs·i—¢XÓ?ÑêâÌ¿1$‡?”S2£|¢»f9“ÚBkD%«ç«r|êhje-¦©]éÚS[!±Kî‰Q2¹³jÎ—…™+âÇ?PDÏ½MCâe±ä>Uw¥¤§TóÈÚğ¾äa#H‚plöôÎ¼¡0"u½Á'[³
+&›„«Q;3;ƒëÓêÙ7Ì ´	ïˆA¬èÕß´ÌÄw$3wš ¿uæy1óç±çîJTª7–üû£º
+¬ĞìÀ»Ö7Öğ¼AFºì]ë««xŞ(é„Sw­°®+D:oå½š8\M&y/½;sœ¡4æQ ‚Ê¾€ñ’xQ!1£¯¥8sœ¼³%Œzy/W›yuKÍ~å™o\¶‚õz9Ñ¯TX+¼İÚé£İÂû &>µÌt®u$©Àİ\ÙãF¤¥(Ş;ä)ûA÷CŠšÿ.§sŸŞñ5ù¼ËššarˆÊ½Ì™C4"Ñwzš	?Ó>Å¹L6ìPìbE:,LJ'—û=÷‚^¬Î•ÆÚ5…o­ÛK­UZ€oõ¿÷)í«ú×øÍKŸc#NA¸·I4*ˆ.Ç¿}¦s¥—!1üéÄòƒÉsRê¾öÒ¯µ±)—Q&İ°C©h„!Cœ¢´j
+îòº˜.º˜.óTeÊ isóŒPa«®ç´6l†Ğˆ=ËZììÎ({0OÉ°…sQ{ªÒNX€^;å ¡ß7´jùá¿´‘åYã0˜o«%âÊ&û@1‰5%EzØ°UÌ•<uŸrj«&¿p¶®k>Ò§XìôË–ZÀÒ¬kOy`q¨teŒIJ™,úXI¿§åÆ ­Š¢W‰ı@Ê¨Õòbò™íÉ•ÊjØÆXpRğp"Ãb6™·Ô…8n·ÚwËÁÒ²‰Õf¼<á+@ÑÒÇPhU{Â ³B5¼çØÉéK`'û€¼[%vÌ;#–‹AøX w%„Š@9šxëm¬Â“Ö†”‰ÜQ)s±É&rYAÍÊN€NLx„‰ªæ«Ü ²¶İ(:aB¥¡¤¤/’hé§.®%ğ@É¨‹İ¢'1Šå!°g*‘&œ…ÇÌîÌ&bîXhmÌôä-{°mí•Dx/t1ÂÌåÚd\/‰yZiÚK
+2-©Ãü’’Ó ‹QÙœ3«‹}€¥–¦«¿Vƒ*„ì÷ÈÖR¦êhŠ¬c6;ì9›OèÓ®hW/Ò	7Ö]†œ¥÷i#ÄHaçñÁ©K %‡h½õ«D‡{ ãÉJŞS0X*ó"1‰¦©H7ÏòÅVW"††¼G¶Gªo†[ å<·(éKˆºõÌË±Ô5Šºˆ:‰:o„I2n““Ì¦jG¹&÷Înì¸š`)9l_ÑŞ"{Æ£ÃY\RÑµÂèË‘iC“a{:rŸÓ—{ï™Sƒ]¥Ü‡‡ÜWœzœÓÉd?èô£~Òš¨‹A
+&ûç,g°¨;dãÑB6U%W;ïZb®ƒ0ov-éKˆyôLŠÍ:Iq|ˆy_Ï%jO­!ùı¸4«“»fkuşDÆ×ÊUk4'á…ÚÏ]0u"°íçko3Ò
+ç¹mI_@æAæ¶fÜVa×\—zÚ±Q›.[
+”Ã¿]©_Úà¯±‡”šWNJúlóO½Nş©nr,ÿ¨€eÿi°´ŸqÈd_È)İö6SSœ]+3º( èØìB)b§ùè‘^Å·
+$Ùi0¨ât~[¾1°‘ù«^'U7y–ßTÎ7uEVÆ•6ì+b‘®¥şeÁÃsŒÁt¾F
+ÂP^¦ıeÍñtÏp“Ò—|™ÀªuXu“[ø¾j(,y.zŒ§(Ûô¾3Š·€cNwzeC½:stÍu¼@¦1‰œ¾&bd¶+Ww“øûÇÄK‘/ƒKLürˆ´‡Äì—Î2Óyì&»rquê&Wî÷/ò0H·‚~j³K¶ĞãÜäôH®‰§©œ¾Õ¢™-Øì(®ßS“†\Ş´¿ğå<'Wù›è=Ö  è„?äô%P“¤X-Á¾ÅÅûP3?y_æøÄ|Mµß«ÑåDÆşâö¨]QüiĞ Ø;4®GêìefÌ¦±¡]Ò—À„Skö«›|Áß?&È~<Óx¬şè¼)HÒrcÒÂãÁáÖwmè¦ÁzÙC¸+@š>wfnO’é/õì]7Î5Ğé^Q¹Ì,ÔšcÍÕMñï¸€Q!3{^ºç+á &^q:ìEªM•‡iÒ„5·z´ÂÎÂÜÜ$2£:";)yx¸Õò¬[\éï ]'ıä(oˆä7­<°`È“¼â°ò<Su³D›¼ z±mD4ŸLN_$ZRjX%VôÃŸØÕ.ï²ãÆú!ÂB©ªI¿ìQª„æÃâX«ÊÇOÂàÊ&¡—™ÀQˆà…¡á÷×a·=¢Ñk;V¼œ¾b@‹€ˆu†ié‡Ãÿ–xÄÁjĞŒç}â/´ó]ğ;K0ñ
+Çêg¬‘ÎYêoåô%àŒĞˆ¿Îà-ığç'$ÌÆòvºêÒ…Rôzù	BBşf;œjyõ;/ÆC_†h÷Tà»/È¦Ösâ§ô%¤=áPÚã:–úáÄŸì¿¸2ÿ_8?ÓÚ7vî}Í§a1Ù³M@'-îü{dfv­"0gáRÒ€‹— -J¯“„ë‡?Á¥?™'uˆÛ×'F£ºä¥¿/¦ûa_÷…Q‹×ùÈ‘ú3[Î0ãÍŞÇ)D†İª¦
+:Vá’¾4ÅV°N3­ş£Üş¨º¨‹Ãìí!áŠÛ¢ò·ô¢+PJzÑåÔ™Â[Uï˜o$ï³n×8ó5Ã†ò y'|'Ô¾¤/$œl‘y+¿N¯§~D´6{ÿ!¸™‘äsMjô1ªú˜«ñœ‘zWf´êuÓ27CMJ¼™ÅEN^ÎWqÑÅúPÎH—z7·qÒ£ğ¬= ì["~fà:ÃªŠn1PĞ,ùëPR¨›	İ¡ó¥zæãÜİwıF®ª
+ÚVl„º×yìíÏÿ(…š4
+endstream
+endobj
+xref
+0 480
+0000000000 65535 f 
+0000059654 00000 n 
+0000059781 00000 n 
+0000059567 00000 n 
+0000059546 00000 n 
+0000059828 00000 n 
+0000060379 00000 n 
+0000000189 00000 n 
+0000000059 00000 n 
+0000000015 00000 n 
+0000059448 00000 n 
+0000061990 00000 n 
+0000002400 00000 n 
+0000002208 00000 n 
+0000000307 00000 n 
+0000000392 00000 n 
+0000000518 00000 n 
+0000000674 00000 n 
+0000000800 00000 n 
+0000000956 00000 n 
+0000001082 00000 n 
+0000001238 00000 n 
+0000001365 00000 n 
+0000001521 00000 n 
+0000001646 00000 n 
+0000001802 00000 n 
+0000001927 00000 n 
+0000002083 00000 n 
+0000074497 00000 n 
+0000010254 00000 n 
+0000009922 00000 n 
+0000002519 00000 n 
+0000002675 00000 n 
+0000002802 00000 n 
+0000002958 00000 n 
+0000003085 00000 n 
+0000003241 00000 n 
+0000003367 00000 n 
+0000003523 00000 n 
+0000003650 00000 n 
+0000003806 00000 n 
+0000003933 00000 n 
+0000004089 00000 n 
+0000004216 00000 n 
+0000004372 00000 n 
+0000004498 00000 n 
+0000004654 00000 n 
+0000004781 00000 n 
+0000004937 00000 n 
+0000005064 00000 n 
+0000005220 00000 n 
+0000005346 00000 n 
+0000005502 00000 n 
+0000005629 00000 n 
+0000005785 00000 n 
+0000005912 00000 n 
+0000006068 00000 n 
+0000006195 00000 n 
+0000006351 00000 n 
+0000006477 00000 n 
+0000006633 00000 n 
+0000006759 00000 n 
+0000006915 00000 n 
+0000007042 00000 n 
+0000007198 00000 n 
+0000007325 00000 n 
+0000007481 00000 n 
+0000007608 00000 n 
+0000007764 00000 n 
+0000007891 00000 n 
+0000008047 00000 n 
+0000008174 00000 n 
+0000008330 00000 n 
+0000008457 00000 n 
+0000008563 00000 n 
+0000008688 00000 n 
+0000008794 00000 n 
+0000008919 00000 n 
+0000009025 00000 n 
+0000009149 00000 n 
+0000009282 00000 n 
+0000009406 00000 n 
+0000009539 00000 n 
+0000009664 00000 n 
+0000009797 00000 n 
+0000071094 00000 n 
+0000017315 00000 n 
+0000016962 00000 n 
+0000010373 00000 n 
+0000010513 00000 n 
+0000010646 00000 n 
+0000010786 00000 n 
+0000010919 00000 n 
+0000011059 00000 n 
+0000011192 00000 n 
+0000011273 00000 n 
+0000011394 00000 n 
+0000011475 00000 n 
+0000011600 00000 n 
+0000011681 00000 n 
+0000011806 00000 n 
+0000011933 00000 n 
+0000012062 00000 n 
+0000012189 00000 n 
+0000012316 00000 n 
+0000012443 00000 n 
+0000012570 00000 n 
+0000012699 00000 n 
+0000012828 00000 n 
+0000012957 00000 n 
+0000013086 00000 n 
+0000013215 00000 n 
+0000013343 00000 n 
+0000013451 00000 n 
+0000013579 00000 n 
+0000013687 00000 n 
+0000013816 00000 n 
+0000013924 00000 n 
+0000014053 00000 n 
+0000014180 00000 n 
+0000014309 00000 n 
+0000014436 00000 n 
+0000014564 00000 n 
+0000014691 00000 n 
+0000014819 00000 n 
+0000014946 00000 n 
+0000015075 00000 n 
+0000015202 00000 n 
+0000015331 00000 n 
+0000015458 00000 n 
+0000015587 00000 n 
+0000015665 00000 n 
+0000015791 00000 n 
+0000015869 00000 n 
+0000015996 00000 n 
+0000016074 00000 n 
+0000016201 00000 n 
+0000016328 00000 n 
+0000016454 00000 n 
+0000016581 00000 n 
+0000016708 00000 n 
+0000016835 00000 n 
+0000080875 00000 n 
+0000027476 00000 n 
+0000027018 00000 n 
+0000017434 00000 n 
+0000017541 00000 n 
+0000017670 00000 n 
+0000017777 00000 n 
+0000017906 00000 n 
+0000018013 00000 n 
+0000018142 00000 n 
+0000018243 00000 n 
+0000018372 00000 n 
+0000018473 00000 n 
+0000018602 00000 n 
+0000018703 00000 n 
+0000018832 00000 n 
+0000018939 00000 n 
+0000019066 00000 n 
+0000019173 00000 n 
+0000019300 00000 n 
+0000019407 00000 n 
+0000019536 00000 n 
+0000019695 00000 n 
+0000019822 00000 n 
+0000019981 00000 n 
+0000020109 00000 n 
+0000020268 00000 n 
+0000020397 00000 n 
+0000020502 00000 n 
+0000020631 00000 n 
+0000020736 00000 n 
+0000020865 00000 n 
+0000020970 00000 n 
+0000021099 00000 n 
+0000021204 00000 n 
+0000021330 00000 n 
+0000021435 00000 n 
+0000021561 00000 n 
+0000021666 00000 n 
+0000021792 00000 n 
+0000021893 00000 n 
+0000022028 00000 n 
+0000022129 00000 n 
+0000022264 00000 n 
+0000022365 00000 n 
+0000022500 00000 n 
+0000022598 00000 n 
+0000022733 00000 n 
+0000022831 00000 n 
+0000022966 00000 n 
+0000023064 00000 n 
+0000023198 00000 n 
+0000023299 00000 n 
+0000023427 00000 n 
+0000023528 00000 n 
+0000023656 00000 n 
+0000023757 00000 n 
+0000023885 00000 n 
+0000024009 00000 n 
+0000024138 00000 n 
+0000024262 00000 n 
+0000024391 00000 n 
+0000024515 00000 n 
+0000024644 00000 n 
+0000024803 00000 n 
+0000024929 00000 n 
+0000025088 00000 n 
+0000025214 00000 n 
+0000025373 00000 n 
+0000025499 00000 n 
+0000025597 00000 n 
+0000025724 00000 n 
+0000025822 00000 n 
+0000025949 00000 n 
+0000026047 00000 n 
+0000026174 00000 n 
+0000026333 00000 n 
+0000026455 00000 n 
+0000026614 00000 n 
+0000026736 00000 n 
+0000026895 00000 n 
+0000067579 00000 n 
+0000033667 00000 n 
+0000033329 00000 n 
+0000027596 00000 n 
+0000027744 00000 n 
+0000027872 00000 n 
+0000028020 00000 n 
+0000028148 00000 n 
+0000028296 00000 n 
+0000028424 00000 n 
+0000028515 00000 n 
+0000028643 00000 n 
+0000028734 00000 n 
+0000028862 00000 n 
+0000028953 00000 n 
+0000029081 00000 n 
+0000029176 00000 n 
+0000029311 00000 n 
+0000029406 00000 n 
+0000029541 00000 n 
+0000029636 00000 n 
+0000029771 00000 n 
+0000029895 00000 n 
+0000030030 00000 n 
+0000030154 00000 n 
+0000030289 00000 n 
+0000030413 00000 n 
+0000030548 00000 n 
+0000030643 00000 n 
+0000030772 00000 n 
+0000030867 00000 n 
+0000030996 00000 n 
+0000031091 00000 n 
+0000031220 00000 n 
+0000031315 00000 n 
+0000031443 00000 n 
+0000031538 00000 n 
+0000031666 00000 n 
+0000031761 00000 n 
+0000031889 00000 n 
+0000031987 00000 n 
+0000032116 00000 n 
+0000032214 00000 n 
+0000032343 00000 n 
+0000032441 00000 n 
+0000032570 00000 n 
+0000032694 00000 n 
+0000032823 00000 n 
+0000032947 00000 n 
+0000033076 00000 n 
+0000033200 00000 n 
+0000064259 00000 n 
+0000040065 00000 n 
+0000039727 00000 n 
+0000033787 00000 n 
+0000033935 00000 n 
+0000034070 00000 n 
+0000034218 00000 n 
+0000034353 00000 n 
+0000034501 00000 n 
+0000034636 00000 n 
+0000034731 00000 n 
+0000034866 00000 n 
+0000034961 00000 n 
+0000035096 00000 n 
+0000035191 00000 n 
+0000035326 00000 n 
+0000035415 00000 n 
+0000035543 00000 n 
+0000035632 00000 n 
+0000035760 00000 n 
+0000035849 00000 n 
+0000035977 00000 n 
+0000036079 00000 n 
+0000036207 00000 n 
+0000036309 00000 n 
+0000036436 00000 n 
+0000036538 00000 n 
+0000036665 00000 n 
+0000036788 00000 n 
+0000036917 00000 n 
+0000037040 00000 n 
+0000037169 00000 n 
+0000037292 00000 n 
+0000037421 00000 n 
+0000037524 00000 n 
+0000037653 00000 n 
+0000037756 00000 n 
+0000037885 00000 n 
+0000037988 00000 n 
+0000038117 00000 n 
+0000038257 00000 n 
+0000038386 00000 n 
+0000038526 00000 n 
+0000038655 00000 n 
+0000038795 00000 n 
+0000038924 00000 n 
+0000039064 00000 n 
+0000039191 00000 n 
+0000039331 00000 n 
+0000039459 00000 n 
+0000039599 00000 n 
+0000077719 00000 n 
+0000048158 00000 n 
+0000047772 00000 n 
+0000040185 00000 n 
+0000040375 00000 n 
+0000040503 00000 n 
+0000040693 00000 n 
+0000040821 00000 n 
+0000041011 00000 n 
+0000041139 00000 n 
+0000041292 00000 n 
+0000041421 00000 n 
+0000041574 00000 n 
+0000041703 00000 n 
+0000041856 00000 n 
+0000041985 00000 n 
+0000042082 00000 n 
+0000042210 00000 n 
+0000042307 00000 n 
+0000042435 00000 n 
+0000042532 00000 n 
+0000042660 00000 n 
+0000042813 00000 n 
+0000042941 00000 n 
+0000043094 00000 n 
+0000043221 00000 n 
+0000043374 00000 n 
+0000043501 00000 n 
+0000043577 00000 n 
+0000043706 00000 n 
+0000043782 00000 n 
+0000043911 00000 n 
+0000043987 00000 n 
+0000044116 00000 n 
+0000044269 00000 n 
+0000044396 00000 n 
+0000044549 00000 n 
+0000044677 00000 n 
+0000044830 00000 n 
+0000044958 00000 n 
+0000045055 00000 n 
+0000045184 00000 n 
+0000045281 00000 n 
+0000045410 00000 n 
+0000045507 00000 n 
+0000045636 00000 n 
+0000045712 00000 n 
+0000045841 00000 n 
+0000045917 00000 n 
+0000046046 00000 n 
+0000046122 00000 n 
+0000046251 00000 n 
+0000046404 00000 n 
+0000046532 00000 n 
+0000046685 00000 n 
+0000046813 00000 n 
+0000046966 00000 n 
+0000047094 00000 n 
+0000047191 00000 n 
+0000047320 00000 n 
+0000047417 00000 n 
+0000047546 00000 n 
+0000047643 00000 n 
+0000084423 00000 n 
+0000058412 00000 n 
+0000057954 00000 n 
+0000048278 00000 n 
+0000048431 00000 n 
+0000048560 00000 n 
+0000048713 00000 n 
+0000048842 00000 n 
+0000048995 00000 n 
+0000049124 00000 n 
+0000049229 00000 n 
+0000049357 00000 n 
+0000049462 00000 n 
+0000049590 00000 n 
+0000049695 00000 n 
+0000049823 00000 n 
+0000049929 00000 n 
+0000050057 00000 n 
+0000050163 00000 n 
+0000050291 00000 n 
+0000050397 00000 n 
+0000050525 00000 n 
+0000050610 00000 n 
+0000050738 00000 n 
+0000050823 00000 n 
+0000050951 00000 n 
+0000051036 00000 n 
+0000051164 00000 n 
+0000051321 00000 n 
+0000051451 00000 n 
+0000051558 00000 n 
+0000051692 00000 n 
+0000051826 00000 n 
+0000051960 00000 n 
+0000052101 00000 n 
+0000052235 00000 n 
+0000052317 00000 n 
+0000052451 00000 n 
+0000052578 00000 n 
+0000052711 00000 n 
+0000052840 00000 n 
+0000052974 00000 n 
+0000053082 00000 n 
+0000053214 00000 n 
+0000053292 00000 n 
+0000053426 00000 n 
+0000053527 00000 n 
+0000053661 00000 n 
+0000053820 00000 n 
+0000053954 00000 n 
+0000054059 00000 n 
+0000054192 00000 n 
+0000054290 00000 n 
+0000054420 00000 n 
+0000054544 00000 n 
+0000054678 00000 n 
+0000054826 00000 n 
+0000054960 00000 n 
+0000055051 00000 n 
+0000055182 00000 n 
+0000055277 00000 n 
+0000055411 00000 n 
+0000055500 00000 n 
+0000055634 00000 n 
+0000055736 00000 n 
+0000055869 00000 n 
+0000055992 00000 n 
+0000056125 00000 n 
+0000056228 00000 n 
+0000056362 00000 n 
+0000056502 00000 n 
+0000056636 00000 n 
+0000056776 00000 n 
+0000056910 00000 n 
+0000057100 00000 n 
+0000057233 00000 n 
+0000057386 00000 n 
+0000057518 00000 n 
+0000057615 00000 n 
+0000057747 00000 n 
+0000057823 00000 n 
+0000059871 00000 n 
+0000059153 00000 n 
+0000058991 00000 n 
+0000058532 00000 n 
+0000058638 00000 n 
+0000058772 00000 n 
+0000058857 00000 n 
+0000059368 00000 n 
+0000059273 00000 n 
+0000059302 00000 n 
+0000059331 00000 n 
+trailer
+<<
+/Size 480
+/Root 3 0 R
+/Info 476 0 R
+/ID [<8e1fc0ade6d7836090403e8cf1441588> <8e1fc0ade6d7836090403e8cf1441588>]
+>>
+startxref
+87688
+%%EOF

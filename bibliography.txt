@@ -1,0 +1,79 @@
+# References
+
+[1]: [Git Merging: Conflict Resolution and Undoing a merge](https://www.baeldung.com/ops/git-merge-conflicts-undo)
+
+[2]: [Continuous Integration Challenges and How to Solve Them](https://www.codingcrafts.io/blog/continuous-integration-challenges/)
+
+[3]: [Feature Branch Workflow Testing - Medium](https://medium.com/@efthymioumarkella/automating-testing-with-github-actions-continuous-integration-ci-part-2-e8e9316dd867)
+
+[4]: [Re-thinking feature branch deployments](https://octopus.com/blog/rethinking-feature-branch-deployments)
+
+[5]: [A note of reflection after 10 years of “A successful Git branching model”](https://news.ycombinator.com/item?id=22496724)
+
+[6]: [After a developer merged his feature/branch into master ... - Reddit](https://www.reddit.com/r/AskProgramming/comments/18re2wx/after_a_developer_merged_his_featurebranch_into/)
+
+[7]: [Build Already in Pull Request and Builds Won't Fail](https://lassiautio.com/2020/06/15/build-already-in-pull-request-and-builds-wont-fail/)
+
+[8]: [Why is the required builds merge check still failing after a successful ...](https://community.atlassian.com/t5/Bitbucket-questions/Why-is-the-required-builds-merge-check-still-failing-after-a/qaq-p/2230801)
+
+[9]: [Mastering CI/CD Monitoring: Essential Tools and Best Practices](https://edgedelta.com/company/blog/mastering-ci-cd-monitoring)
+
+[10]: [Best Practices for Handling Code Merging and Conflicts](https://blog.pixelfreestudio.com/best-practices-for-handling-code-merging-and-conflicts/)
+
+[11]: [Git branching strategy integated with testing/QA process](https://stackoverflow.com/questions/18371741/git-branching-strategy-integated-with-testing-qa-process)
+
+[12]: [Branching & Merging Strategies with GIT - Coditation](https://coditation.com/blog/branching-merging-strategies-with-git)
+
+[13]: [Merging Main into Feature Branch: A Guide for Smooth Git Workflows](https://digitalapps.com/merging-main-into-feature-branch-a-guide-for-smooth-git-workflows/)
+
+[14]: [Ensuring Feature Branches Stay Fresh: A Git Workflow Guide](https://medium.com/@mullatoez/ensuring-feature-branches-stay-fresh-a-git-workflow-guide-57f1c735167d)
+
+[15]: [Top 10 Benefits of Automated Testing in Application Development](https://www.pixelcrayons.com/blog/software-development/benefits-of-automated-testing/)
+
+[16]: [Test Automation - Pre-Merge Testing with GitHub Actions: A ... - LinkedIn](https://www.linkedin.com/pulse/test-automation-pre-merge-testing-github-actions-step-by-step-tal/)
+
+[17]: [Code Review Best Practices | Checklist, Tools, & Tips for Success](https://www.gitkraken.com/blog/code-review)
+
+[18]: [Post-Commit Reviews - Cindy Sridharan - Medium](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a)
+
+[19]: [Understanding and Resolving Git Merge Conflicts - A ... - Gyata](https://www.gyata.ai/git/git-merge-conflict)
+
+[20]: [What Is Continuous Integration (CI)? Pillars, Methods & Tools - Codefresh](https://codefresh.io/learn/continuous-integration/)
+
+[21]: [CI/CD Tools: Key Features and 10 Tools You Should Know - Spot.io](https://spot.io/resources/ci-cd/ci-cd-tools-key-features-and-10-tools-you-should-know/)
+
+[22]: [Continuous Integration (CI) Branching Strategies: What You ... - HackerNoon](https://hackernoon.com/continuous-integration-ci-branching-strategies-what-you-need-to-know)
+
+[23]: [Understanding the Feature Branching Strategy in Git - Split Software](https://www.split.io/blog/understanding-the-feature-branching-strategy-in-git/)
+
+[24]: [Top 7 CI Tools and How to Choose - Codefresh](https://codefresh.io/learn/continuous-integration/top-7-ci-tools-and-how-to-choose/)
+
+[25]: [Git, Feature Branches, and Jenkins – or how I learned to stop ...](https://twasink.net/2011/09/20/git-feature-branches-and-jenkins-or-how-i-learned-to-stop-worrying-about-broken-builds/)
+
+[26]: [The 50 BEST CI/CD Tools Your Team Should Be Using (2024)](https://www.cloudzero.com/blog/cicd-tools/)
+
+[27]: [Best Practices to Improve your Code Reviews with Git - Codiga](https://www.codiga.io/blog/best-practices-git-code-reviews/)
+
+[28]: [Git merge conflicts | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+
+[29]: [How do I approach a complicated merge](https://softwareengineering.stackexchange.com/questions/302289/how-do-i-approach-a-complicated-merge)
+
+[30]: [Automating Your Git Processes: Tips and Tricks - Git Wiki](https://www.gitwiki.org/automating-git-processes/)
+
+[31]: [A Guide to Optimal Branching Strategies in Git | Atlassian](https://www.atlassian.com/agile/software-development/branching)
+
+[32]: [Continuous Integration and Feature Branching | Dave Farley's Weblog](https://www.davefarley.net/?p=247)
+
+[33]: [How to Resolve Git Merge Conflicts Efficiently](https://blog.pixelfreestudio.com/how-to-resolve-git-merge-conflicts-efficiently/)
+
+[34]: [Testing best practices | GitLab](https://docs.gitlab.com/ee/development/testing_guide/best_practices.html)
+
+[35]: [Feature Branching: A Guide to the Do's and Don'ts | LaunchDarkly](https://launchdarkly.com/blog/dos-and-donts-of-feature-branching/)
+
+[36]: [Branching and merging best practices in Git](https://stackoverflow.com/questions/24582319/branching-and-merging-best-practices-in-git)
+
+[37]: [Git Branching Strategy Guide - DEV Community](https://dev.to/ak_23/branching-strategy-guide-24d6)
+
+[38]: [In GitHub flow, is it OK to base feature branch on another ...](https://softwareengineering.stackexchange.com/questions/310427/in-github-flow-is-it-ok-to-base-feature-branch-on-another-feature-branch)
+
+[39]: [Mastering Git Workflow: Best Practices for Parallel Feature ...](https://medium.com/@pantaanish/mastering-git-workflow-best-practices-for-parallel-feature-development-and-conflict-resolution-b1d61601795b)
